@@ -1,0 +1,443 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav
+vasyn_rst_syn
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 T7YQ>iSWFThhmIJ0HOGk]0
+I]oOHg8[5QVk]IOVNjB8Rn1
+R0
+w1763096477
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v
+L0 7
+Z2 OL;L;10.4;61
+Z3 !s108 1763462884.312000
+Z4 !s107 E:\User\Files\project_self\OPHW_25H\workspace\16work\project\ipcore\blk_mem_gen_0\rtl\blk_mem_gen_0_init_param.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/top_tb.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_tb.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_v1_10_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_sdpram_v1_10_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_ctrl_v1_1_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_rom_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_1/pll_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_0/pll_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/matrix_3x3.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/signal_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/data_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/binarization.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/area_bin.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/video_display.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/sync_vg.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/serializer_10_to_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/RGB2YCbCr.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/hdmi_picture_grey.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_transmitter_top.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_encoder.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/asyn_rst_syn.v|
+Z5 !s90 -reportprogress|300|-work|work|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/asyn_rst_syn.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_encoder.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_transmitter_top.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/hdmi_picture_grey.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/RGB2YCbCr.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/serializer_10_to_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/sync_vg.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/video_display.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/area_bin.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/binarization.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/data_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/signal_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/design/matrix_3x3.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_0/pll_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_1/pll_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_rom_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_ctrl_v1_1_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_sdpram_v1_10_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_v1_10_fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/fifo_line_buf.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_tb.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v|E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/top_tb.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vbinarization
+Z7 !s110 1763462884
+!i10b 1
+!s100 m[Cma7d9fIQ]4mk3;RBjJ1
+IS^]7@m]gHnh7nlID2@LU32
+R1
+R0
+w1763395006
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v
+L0 2
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vblk_mem_gen_0
+R7
+!i10b 1
+!s100 ^lfn:@H01]Ja;8hI0NI3c0
+I7z]>IQNiS9KZe2o2:W1DY2
+R1
+R0
+Z8 w1763276447
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/blk_mem_gen_0.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/blk_mem_gen_0.v
+Z9 L0 16
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vdata_delay
+R7
+!i10b 1
+!s100 @JmZMGd13Z?6l4jbzLzWZ0
+I2bEAznFQRS?`0YSe9B9:70
+R1
+R0
+w1763320582
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v
+L0 4
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vdvi_encoder
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nUGE:;U6]XZRm]>C2WAWg1
+IA6o7>GUl:<KFJ?dzI2Gd>3
+R0
+w1662023961
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v
+L0 21
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vdvi_transmitter_top
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 h_MjX2eT1Hn?VTJmoo?aM0
+IEe[Y6R12?PCHH>jk:KNIC0
+R0
+w1763096468
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v
+L0 7
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vfifo_line_buf
+R7
+!i10b 1
+!s100 8RHk=[_aV0JfL=Gc54U]E0
+IOUYmHcUm?AZH>jiIXNP6m3
+R1
+R0
+Z10 w1763428568
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/fifo_line_buf.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/fifo_line_buf.v
+R9
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vhdmi_picture_grey
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 We?Ga^6^5AM;P:AW<J0Sk0
+I^;Vj3imFm[7PzQ`1QEV;Y2
+R0
+w1763272939
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v
+L0 24
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vipm2l_fifo_ctrl_v1_1_fifo_line_buf
+R7
+!i10b 1
+!s100 VT4Um1oSMRZNUP0:<PfM>1
+I7cfCj?R22bl:9[4QAaD2`0
+R1
+R0
+R10
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_ctrl_v1_1_fifo_line_buf.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_ctrl_v1_1_fifo_line_buf.v
+Z11 L0 18
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vipm2l_fifo_v1_10_fifo_line_buf
+R7
+!i10b 1
+!s100 i1;E?IHeog?UNCgl_U@SO3
+I3;E6JQKlBlO3z[]kOmNzn0
+R1
+R0
+R10
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_v1_10_fifo_line_buf.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_v1_10_fifo_line_buf.v
+L0 19
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vipm2l_rom_v1_8_blk_mem_gen_0
+R7
+!i10b 1
+!s100 19h`3^`^E?PADLMbD7nZ@3
+Id=7^4RTOl1nZNNJ_l042W3
+R1
+R0
+R8
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_rom_v1_8_blk_mem_gen_0.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_rom_v1_8_blk_mem_gen_0.v
+R11
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vipm2l_sdpram_v1_10_fifo_line_buf
+R7
+!i10b 1
+!s100 :S^XeHnaF9f]>@;;[MWTg0
+I?=X5ES;2G_6g@glji<2oz3
+R1
+R0
+R10
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_sdpram_v1_10_fifo_line_buf.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_sdpram_v1_10_fifo_line_buf.v
+R11
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vipm2l_spram_v1_8_blk_mem_gen_0
+R7
+!i10b 1
+!s100 RUQC@B4`1PP;385[WUU2]3
+I8WMfMHinYFYC_9^W1IQ0U1
+R1
+R0
+w1763276457
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v
+FE:\User\Files\project_self\OPHW_25H\workspace\16work\project\ipcore\blk_mem_gen_0\rtl\blk_mem_gen_0_init_param.v
+L0 17
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vmatrix_3x3
+R7
+!i10b 1
+!s100 5BE5I[:faP1S[L2EKaNkf1
+IJ90DD>>gi7F`4^eaeSdDW3
+R1
+R0
+w1763425907
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vmatrix_tb
+R7
+!i10b 1
+!s100 E@j`:8GLenGP>9k2?bXXz3
+IXQ;VlAZAR>cR77f]5d9To3
+R1
+R0
+w1763428209
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_tb.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vpll_0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 fR3X]aGI2SY46[Bo5<AMP1
+IMC;bRbf<<`Ga=d=O9KBOI1
+R0
+w1763273072
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_0/pll_0.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_0/pll_0.v
+R11
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vpll_1
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >4[TI3gZXSj]?RKMj]1_=1
+IN=4:Xej`QDOMdUTVW][nX1
+R0
+w1763273100
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_1/pll_1.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_1/pll_1.v
+R11
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vRGB2YCbCr
+R7
+!i10b 1
+!s100 >2]^IX:eN5keehTUlHVLD1
+I`kiW?UFMWN@hjc8b_J_N`0
+R1
+R0
+w1763314274
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+n@r@g@b2@y@cb@cr
+vserializer_10_to_1
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Y7`GFcBV<hcb_jn2QGS?22
+IBG=RGh3;4oi38CPIJ2I>^0
+R0
+w1763096472
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v
+L0 9
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vsignal_delay
+R7
+!i10b 1
+!s100 ?iLQ`F[GNg6RDbg`jXSzE3
+IT]YGFLdhUJS14o1oE<hYC1
+R1
+R0
+w1763320580
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v
+L0 4
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!i113 0
+R6
+vsync_vg
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 jGAhboBZOC]2bLQ?8kSX]2
+I;bZffS0GT=55MB7le@`oz3
+R0
+w1763096407
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v
+L0 35
+R2
+R3
+R4
+R5
+!i113 0
+R6
+vtop_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ALJ2]Tf61WUImRl6J98];0
+I99_IkhjcPg@:[f]F<IMhk0
+R0
+w1763429343
+8E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/top_tb.v
+FE:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/top_tb.v
+L0 3
+R2
+R3
+R4
+R5
+!i113 0
+R6

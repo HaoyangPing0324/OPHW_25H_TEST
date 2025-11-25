@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/15_matrix_3x3/project/pango_sim_libraries
+vVudGBQ1WAYBhwhJaVu9tnUZtT9FAj6MxJ9JlmJS5gJU=
+Z0 !s110 1763309718
+!i10b 0
+!s100 @CRWA61[7<0=;MaCO^WiG2
+ITgJ`;>M9NN_X72Ca^G]iY3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 1030896400
+d.
+Z2 Fnofile
+R2
+Z3 L1 25
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+Z5 !s108 1763309718.632000
+Z6 !s107 ./dll_e2_source_codes/dll_e2_ddrphy_dll_fsm_hp.vp|./dll_e2_source_codes/dll_e2_clk_mux_2to1.vp|./dll_e2_source_codes/dll_e2_dll_clk_gate.vp|./dll_e2_source_codes/dll_e2_dll_dff.vp|./dll_e2_source_codes/dll_e2_ddrphy_dll_fsm.vp|./dll_e2_source_codes/dll_e2_ddrphy_dll_fdiv.vp|./dll_e2_source_codes/dll_e2_dly_chain.vp|
+Z7 !s90 -incr|-f|./filelist_dll_e2_gtp.f|-work|dll_e2|
+!i113 0
+Z8 o-work dll_e2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n273f541
+vMxWMRLqEk2BDf5unnftaXa+NuXuYxqwlkaUFo26UlOg=
+R0
+!i10b 0
+!s100 36MzIbJLbA>mW@>lXDIDF2
+I_44KaH?5;o@80Xl5D[l521
+R1
+!i8a 818281536
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n8d756
+vieujWG8voYizPY5gBaJISn4/bq/ClTdgZQGfrD/YtFg=
+R0
+!i10b 0
+!s100 Y>7D6mBgghJ^1h6[KhWhT2
+I0KG5Zafbj2RTlI=F8BLh=0
+R1
+!i8a 437827744
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n5008c5d
+v394omQaGfBMI+jihrXEZYPblgUpoC425sEK8f5KFn/0=
+R0
+!i10b 0
+!s100 AnIgb<jXI60iPFjMjz<8b0
+Ika8CDmZzk>>1Z^G7Q:Ie;0
+R1
+!i8a 896539232
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n8c685f0
+vXbs5R2H9lfz+VF7hjXOwJ8/U7izJ3ni+Fvz3InCiQ6M=
+R0
+!i10b 0
+!s100 =4nj]^Ij`PJR]93<WYOaR0
+IoH<on8ZOc?C@7ZD4V_DZ51
+R1
+!i8a 1854482224
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+ndb48565
+veXuBTGNV6vEexpAy/MQbQA==
+R0
+!i10b 0
+!s100 ``K2eWFn`LLfnLF>WNfjP3
+IcR8Y:]?`?ebjRhfJDSKCe3
+R1
+!i8a 1181698592
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nc35ba26
+vRK+SgR96MuU6io8SQHJjFqlv45I8uLKuQZIlCQJ0yfY=
+R0
+!i10b 0
+!s100 KOL<lm@EJ3KRZa:<8za>k0
+IQ`BX0f?NjY]f4Xf<WbU=l0
+R1
+!i8a 1584257728
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+ncdb0dee

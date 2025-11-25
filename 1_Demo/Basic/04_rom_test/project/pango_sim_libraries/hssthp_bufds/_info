@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/04_rom_test/project/pango_sim_libraries
+vPaSwL1YHzkoU5Vp3ttTfKw==
+!s110 1763119635
+!i10b 0
+!s100 ^mN:=Ao7eNohAoUzkkoQX1
+I4njigfgTGViLcF_XH=0:L2
+VDg1SIo80bB@j0V0VzS_@n1
+!i8a 271281424
+d.
+Z0 Fnofile
+R0
+L1 25
+OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1763119635.130000
+!s107 ./hssthp_bufds_source_codes/hssthp_bufds.vp|
+!s90 -incr|-f|./filelist_hssthp_bufds_gtp.f|-work|hssthp_bufds|
+!i113 0
+o-work hssthp_bufds -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n2ef1243

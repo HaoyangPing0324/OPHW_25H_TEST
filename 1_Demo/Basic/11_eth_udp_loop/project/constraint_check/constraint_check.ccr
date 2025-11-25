@@ -1,0 +1,324 @@
+##### Written on 2025/11/21 06:06:10 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PG2L25H-6MBG325
+
+Top Module : 
+	eth_udp_loop
+
+Constraint File(s) : 
+	E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 11 critical warning(s), 84 warning(s), out of 175 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:eth_txd[3]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 177)] PAP_IO_DIRECTION is already defined in p:eth_txd[3], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_LOC} {V14}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 178)] PAP_IO_LOC is already defined in p:eth_txd[3], new value V14 will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 179)] PAP_IO_VCCIO is already defined in p:eth_txd[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 180)] PAP_IO_STANDARD is already defined in p:eth_txd[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 181)] PAP_IO_DRIVE is already defined in p:eth_txd[3], new value 4 will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 182)] PAP_IO_NONE is already defined in p:eth_txd[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 183)] PAP_IO_SLEW is already defined in p:eth_txd[3], new value FAST will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 184)] PAP_IO_DIRECTION is already defined in p:eth_txd[2], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_LOC} {V12}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 185)] PAP_IO_LOC is already defined in p:eth_txd[2], new value V12 will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 186)] PAP_IO_VCCIO is already defined in p:eth_txd[2], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 187)] PAP_IO_STANDARD is already defined in p:eth_txd[2], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 188)] PAP_IO_DRIVE is already defined in p:eth_txd[2], new value 4 will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 189)] PAP_IO_NONE is already defined in p:eth_txd[2], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txd[2]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 190)] PAP_IO_SLEW is already defined in p:eth_txd[2], new value FAST will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 191)] PAP_IO_DIRECTION is already defined in p:eth_txd[1], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_LOC} {V13}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 192)] PAP_IO_LOC is already defined in p:eth_txd[1], new value V13 will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 193)] PAP_IO_VCCIO is already defined in p:eth_txd[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 194)] PAP_IO_STANDARD is already defined in p:eth_txd[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 195)] PAP_IO_DRIVE is already defined in p:eth_txd[1], new value 4 will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 196)] PAP_IO_NONE is already defined in p:eth_txd[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 197)] PAP_IO_SLEW is already defined in p:eth_txd[1], new value FAST will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 198)] PAP_IO_DIRECTION is already defined in p:eth_txd[0], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_LOC} {T12}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 199)] PAP_IO_LOC is already defined in p:eth_txd[0], new value T12 will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 200)] PAP_IO_VCCIO is already defined in p:eth_txd[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 201)] PAP_IO_STANDARD is already defined in p:eth_txd[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 202)] PAP_IO_DRIVE is already defined in p:eth_txd[0], new value 4 will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 203)] PAP_IO_NONE is already defined in p:eth_txd[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 204)] PAP_IO_SLEW is already defined in p:eth_txd[0], new value FAST will overwrite the current value.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 205)] PAP_IO_DIRECTION is already defined in p:eth_rxd[3], new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_LOC} {U11}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 206)] PAP_IO_LOC is already defined in p:eth_rxd[3], new value U11 will overwrite the current value.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 207)] PAP_IO_VCCIO is already defined in p:eth_rxd[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 208)] PAP_IO_STANDARD is already defined in p:eth_rxd[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 209)] PAP_IO_NONE is already defined in p:eth_rxd[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 210)] PAP_IO_DIRECTION is already defined in p:eth_rxd[2], new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_LOC} {V11}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 211)] PAP_IO_LOC is already defined in p:eth_rxd[2], new value V11 will overwrite the current value.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 212)] PAP_IO_VCCIO is already defined in p:eth_rxd[2], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 213)] PAP_IO_STANDARD is already defined in p:eth_rxd[2], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 214)] PAP_IO_NONE is already defined in p:eth_rxd[2], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 215)] PAP_IO_DIRECTION is already defined in p:eth_rxd[1], new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_LOC} {U9}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 216)] PAP_IO_LOC is already defined in p:eth_rxd[1], new value U9 will overwrite the current value.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 217)] PAP_IO_VCCIO is already defined in p:eth_rxd[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 218)] PAP_IO_STANDARD is already defined in p:eth_rxd[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 219)] PAP_IO_NONE is already defined in p:eth_rxd[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 220)] PAP_IO_DIRECTION is already defined in p:eth_rxd[0], new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_LOC} {V9}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 221)] PAP_IO_LOC is already defined in p:eth_rxd[0], new value V9 will overwrite the current value.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 222)] PAP_IO_VCCIO is already defined in p:eth_rxd[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 223)] PAP_IO_STANDARD is already defined in p:eth_rxd[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 224)] PAP_IO_NONE is already defined in p:eth_rxd[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 225)] PAP_IO_DIRECTION is already defined in p:eth_rst_n, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_LOC} {U10}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 226)] PAP_IO_LOC is already defined in p:eth_rst_n, new value U10 will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 227)] PAP_IO_VCCIO is already defined in p:eth_rst_n, new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 228)] PAP_IO_STANDARD is already defined in p:eth_rst_n, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 229)] PAP_IO_DRIVE is already defined in p:eth_rst_n, new value 4 will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 230)] PAP_IO_NONE is already defined in p:eth_rst_n, new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rst_n} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 231)] PAP_IO_SLEW is already defined in p:eth_rst_n, new value FAST will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 232)] PAP_IO_DIRECTION is already defined in p:eth_tx_ctl, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_LOC} {R13}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 233)] PAP_IO_LOC is already defined in p:eth_tx_ctl, new value R13 will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 234)] PAP_IO_VCCIO is already defined in p:eth_tx_ctl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 235)] PAP_IO_STANDARD is already defined in p:eth_tx_ctl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 236)] PAP_IO_DRIVE is already defined in p:eth_tx_ctl, new value 4 will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 237)] PAP_IO_NONE is already defined in p:eth_tx_ctl, new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 238)] PAP_IO_SLEW is already defined in p:eth_tx_ctl, new value FAST will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 239)] PAP_IO_DIRECTION is already defined in p:eth_txc, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_LOC} {V17}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 240)] PAP_IO_LOC is already defined in p:eth_txc, new value V17 will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 241)] PAP_IO_VCCIO is already defined in p:eth_txc, new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 242)] PAP_IO_STANDARD is already defined in p:eth_txc, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_DRIVE} {4}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 243)] PAP_IO_DRIVE is already defined in p:eth_txc, new value 4 will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 244)] PAP_IO_NONE is already defined in p:eth_txc, new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txc} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 245)] PAP_IO_SLEW is already defined in p:eth_txc, new value FAST will overwrite the current value.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 246)] PAP_IO_DIRECTION is already defined in p:eth_rx_ctl, new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_LOC} {U12}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 247)] PAP_IO_LOC is already defined in p:eth_rx_ctl, new value U12 will overwrite the current value.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 248)] PAP_IO_VCCIO is already defined in p:eth_rx_ctl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 249)] PAP_IO_STANDARD is already defined in p:eth_rx_ctl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 250)] PAP_IO_NONE is already defined in p:eth_rx_ctl, new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_rxc} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 251)] PAP_IO_DIRECTION is already defined in p:eth_rxc, new value INPUT will overwrite the current value.
+
+define_attribute {p:eth_rxc} {PAP_IO_LOC} {P15}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 252)] PAP_IO_LOC is already defined in p:eth_rxc, new value P15 will overwrite the current value.
+
+define_attribute {p:eth_rxc} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 253)] PAP_IO_VCCIO is already defined in p:eth_rxc, new value 3.3 will overwrite the current value.
+
+define_attribute {p:eth_rxc} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 254)] PAP_IO_STANDARD is already defined in p:eth_rxc, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:eth_rxc} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 255)] PAP_IO_NONE is already defined in p:eth_rxc, new value TRUE will overwrite the current value.
+
+define_attribute {p:sys_clk} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 256)] PAP_IO_DIRECTION is already defined in p:sys_clk, new value INPUT will overwrite the current value.
+
+define_attribute {p:sys_clk} {PAP_IO_LOC} {P3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 257)] PAP_IO_LOC is already defined in p:sys_clk, new value P3 will overwrite the current value.
+
+define_attribute {p:sys_clk} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 258)] PAP_IO_VCCIO is already defined in p:sys_clk, new value 3.3 will overwrite the current value.
+
+define_attribute {p:sys_clk} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 259)] PAP_IO_STANDARD is already defined in p:sys_clk, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:sys_clk} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 260)] PAP_IO_NONE is already defined in p:sys_clk, new value TRUE will overwrite the current value.
+
+define_attribute {p:eth_txd[3]} {PAP_IO_LOC} {V14}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 178)] | Port eth_txd[3] has been placed at location V14, whose type is share pin.
+
+define_attribute {p:eth_txd[1]} {PAP_IO_LOC} {V13}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 192)] | Port eth_txd[1] has been placed at location V13, whose type is share pin.
+
+define_attribute {p:eth_txd[0]} {PAP_IO_LOC} {T12}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 199)] | Port eth_txd[0] has been placed at location T12, whose type is share pin.
+
+define_attribute {p:eth_rxd[3]} {PAP_IO_LOC} {U11}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 206)] | Port eth_rxd[3] has been placed at location U11, whose type is share pin.
+
+define_attribute {p:eth_rxd[2]} {PAP_IO_LOC} {V11}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 211)] | Port eth_rxd[2] has been placed at location V11, whose type is share pin.
+
+define_attribute {p:eth_rxd[1]} {PAP_IO_LOC} {U9}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 216)] | Port eth_rxd[1] has been placed at location U9, whose type is share pin.
+
+define_attribute {p:eth_rxd[0]} {PAP_IO_LOC} {V9}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 221)] | Port eth_rxd[0] has been placed at location V9, whose type is share pin.
+
+define_attribute {p:eth_tx_ctl} {PAP_IO_LOC} {R13}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 233)] | Port eth_tx_ctl has been placed at location R13, whose type is share pin.
+
+define_attribute {p:eth_txc} {PAP_IO_LOC} {V17}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 240)] | Port eth_txc has been placed at location V17, whose type is share pin.
+
+define_attribute {p:eth_rx_ctl} {PAP_IO_LOC} {U12}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 247)] | Port eth_rx_ctl has been placed at location U12, whose type is share pin.
+
+define_attribute {p:sys_rst_n} {PAP_IO_LOC} {G14}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/11_eth_udp_loop/constraint/eth_udp_loop.fdc(line number: 172)] | Port sys_rst_n has been placed at location G14, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

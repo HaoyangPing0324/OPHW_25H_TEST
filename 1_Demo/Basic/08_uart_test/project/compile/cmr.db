@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_data_gen.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_rx.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_tx.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:3s</data>
+            <data>137</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>Unknown</data>
+            <data>31</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_data_gen.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_data_gen.v(line number: 23)] Analyzing module uart_data_gen (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_rx.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_rx.v(line number: 24)] Analyzing module uart_rx (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v(line number: 24)] Analyzing module uart_top (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_tx.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_tx.v(line number: 24)] Analyzing module uart_tx (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;uart_top&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v(line number: 24)] Elaborating module uart_top</data>
+        </row>
+        <row>
+            <data message="4">Module instance {uart_top} parameter value:
+    BPS_NUM = 16'b0000000110110010</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v(line number: 62)] Elaborating instance uart_data_gen</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_data_gen.v(line number: 23)] Elaborating module uart_data_gen</data>
+        </row>
+        <row>
+            <data message="4">Module instance {uart_top/uart_data_gen} parameter value:
+    time_1s = 26'b01100110111111110011000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v(line number: 75)] Elaborating instance u_uart_tx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_tx.v(line number: 24)] Elaborating module uart_tx</data>
+        </row>
+        <row>
+            <data message="4">Module instance {uart_top/u_uart_tx} parameter value:
+    BPS_NUM = 16'b0000000110110010</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_top.v(line number: 87)] Elaborating instance u_uart_rx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/design/uart_rx.v(line number: 24)] Elaborating module uart_rx</data>
+        </row>
+        <row>
+            <data message="4">Module instance {uart_top/u_uart_rx} parameter value:
+    BPS_NUM = 16'b0000000110110010</data>
+        </row>
+        <row>
+            <data message="4">FSM tx_state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM rx_state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PG2L25H-6MBG325</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>uart_top</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>E:/User/Files/project_self/OPHW_25H/workspace/08_uart_test/project	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

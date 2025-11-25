@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/06_fifo_test/project/pango_sim_libraries
+vh/IVl1qB9TlbsFSKRiJ7uKzfewogIMIDbRWM/KpYAhU=
+Z0 !s110 1763287027
+!i10b 0
+!s100 @CRWA61[7<0=;MaCO^WiG2
+ITgJ`;>M9NN_X72Ca^G]iY3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 119556208
+d.
+Z2 Fnofile
+R2
+Z3 L1 25
+Z4 OL;L;10.4;61
+r1
+!s85 0
+31
+Z5 !s108 1763287026.801000
+Z6 !s107 ./dll_e2_source_codes/dll_e2_ddrphy_dll_fsm_hp.vp|./dll_e2_source_codes/dll_e2_clk_mux_2to1.vp|./dll_e2_source_codes/dll_e2_dll_clk_gate.vp|./dll_e2_source_codes/dll_e2_dll_dff.vp|./dll_e2_source_codes/dll_e2_ddrphy_dll_fsm.vp|./dll_e2_source_codes/dll_e2_ddrphy_dll_fdiv.vp|./dll_e2_source_codes/dll_e2_dly_chain.vp|
+Z7 !s90 -incr|-f|./filelist_dll_e2_gtp.f|-work|dll_e2|
+!i113 0
+Z8 o-work dll_e2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n273f541
+vq2RRTQ/3wlTCMhwEfa42R7GmdNpXEXGu9V1zBDAhAnk=
+Z9 !s110 1763287026
+!i10b 0
+!s100 36MzIbJLbA>mW@>lXDIDF2
+I_44KaH?5;o@80Xl5D[l521
+R1
+!i8a 1604209776
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n8d756
+v1uKI9TfEBq66oG11G2HpLSIoBj2xsOfaLb2hft6DtOg=
+R0
+!i10b 0
+!s100 Y>7D6mBgghJ^1h6[KhWhT2
+I0KG5Zafbj2RTlI=F8BLh=0
+R1
+!i8a 1852203744
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n5008c5d
+vqrwp5F4FHSNyJzty4/llljfA6ADyugGS/BCYXmmhRIU=
+R0
+!i10b 0
+!s100 AnIgb<jXI60iPFjMjz<8b0
+Ika8CDmZzk>>1Z^G7Q:Ie;0
+R1
+!i8a 1408190992
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n8c685f0
+vRXh9X61xLNWlTUeZyVu8rKS66RY1ZJ+J1Al5GmT88BM=
+R0
+!i10b 0
+!s100 =4nj]^Ij`PJR]93<WYOaR0
+IoH<on8ZOc?C@7ZD4V_DZ51
+R1
+!i8a 520848720
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+ndb48565
+vt9YKjKD/2+A8OGT5OxTjDA==
+R0
+!i10b 0
+!s100 ``K2eWFn`LLfnLF>WNfjP3
+IcR8Y:]?`?ebjRhfJDSKCe3
+R1
+!i8a 1835636384
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nc35ba26
+vT0xaAuFD4x/tT/YmeW3ZWvgOWfpqGSJy25iA+e3Cz/s=
+R9
+!i10b 0
+!s100 KOL<lm@EJ3KRZa:<8za>k0
+IQ`BX0f?NjY]f4Xf<WbU=l0
+R1
+!i8a 902184432
+d.
+R2
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+ncdb0dee

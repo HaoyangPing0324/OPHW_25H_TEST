@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+E:/User/Files/project_self/OPHW_25H/workspace/14_HDMI_picture_grey/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/workspace/14_HDMI_picture_grey/project/ipcore/blk_mem_gen_0/rtl/blk_mem_gen_0_init_param.v|
+
+

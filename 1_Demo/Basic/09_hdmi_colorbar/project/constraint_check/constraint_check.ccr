@@ -1,0 +1,45 @@
+##### Written on 2025/11/14 16:03:14 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PG2L25H-6MBG325
+
+Top Module : 
+	hdmi_test
+
+Constraint File(s) : 
+	E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/constraint/09_hdmi_colorbar.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 2 critical warning(s), 0 warning(s), out of 54 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:tmds_data_n[1]} {PAP_IO_LOC} {K15}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/constraint/09_hdmi_colorbar.fdc(line number: 9)] | Port tmds_data_n[1] has been placed at location K15, whose type is share pin.
+
+define_attribute {p:tmds_data_p[1]} {PAP_IO_LOC} {J14}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/constraint/09_hdmi_colorbar.fdc(line number: 27)] | Port tmds_data_p[1] has been placed at location J14, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

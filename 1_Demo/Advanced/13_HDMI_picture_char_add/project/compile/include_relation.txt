@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+
+
+
+E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/13_HDMI_picture_char_add/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/13_HDMI_picture_char_add/project/ipcore/blk_mem_gen_0/rtl/blk_mem_gen_0_init_param.v|
+
+

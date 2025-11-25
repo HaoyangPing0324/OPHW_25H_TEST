@@ -1,0 +1,63 @@
+##### Written on 2025/11/21 11:16:01 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PG2L25H-6MBG325
+
+Top Module : 
+	i2c_eeprom_test
+
+Constraint File(s) : 
+	E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 8 critical warning(s), 0 warning(s), out of 69 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:led[3]} {PAP_IO_LOC} {E18}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 3)] | Port led[3] has been placed at location E18, whose type is share pin.
+
+define_attribute {p:led[2]} {PAP_IO_LOC} {F17}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 10)] | Port led[2] has been placed at location F17, whose type is share pin.
+
+define_attribute {p:led[1]} {PAP_IO_LOC} {H18}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 17)] | Port led[1] has been placed at location H18, whose type is share pin.
+
+define_attribute {p:key[2]} {PAP_IO_LOC} {H17}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 31)] | Port key[2] has been placed at location H17, whose type is share pin.
+
+define_attribute {p:key[0]} {PAP_IO_LOC} {F14}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 41)] | Port key[0] has been placed at location F14, whose type is share pin.
+
+define_attribute {p:sda} {PAP_IO_LOC} {K17}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 46)] | Port sda has been placed at location K17, whose type is share pin.
+
+define_attribute {p:scl} {PAP_IO_LOC} {L18}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 53)] | Port scl has been placed at location L18, whose type is share pin.
+
+define_attribute {p:rstn} {PAP_IO_LOC} {G14}
+	C: ConstraintEditor-2002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/constraint/07_i2c_eeprom_test.fdc(line number: 66)] | Port rstn has been placed at location G14, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

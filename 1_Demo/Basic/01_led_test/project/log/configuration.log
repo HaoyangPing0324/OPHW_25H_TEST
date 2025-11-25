@@ -1,0 +1,931 @@
+[Info] [2025-11-14 11:04:25] /***************************Start Configuration***************************/
+[Info] [2025-11-14 11:04:25] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 11:04:25] Version: 146967
+[Info] [2025-11-14 11:04:26] Current Path: E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project
+[Info] [2025-11-14 11:04:26] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project
+[Debug] [2025-11-14 11:04:30] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 11:04:30] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 11:04:30] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 11:04:30] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 11:04:30] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 11:04:30] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 11:04:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 11:04:31] Finish.
+[Info] [2025-11-14 11:04:31] Connect server succeeded
+[Debug] [2025-11-14 11:04:31] Send RPC:1
+[Debug] [2025-11-14 11:04:31] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 11:04:31] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 11:04:31] Send RPC:2
+[Debug] [2025-11-14 11:04:31] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 11:04:31] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-11-14 11:04:31] Log::Print : COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-11-14 11:04:32] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-14 11:04:32] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 11:04:32] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-14 11:04:36] Send RPC:3
+[Debug] [2025-11-14 11:04:36] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 11:04:36] COMMAND[set_cable_paras] execute successfully, takes 0.6 secs.
+[Debug] [2025-11-14 11:04:36] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.6 secs.
+[Debug] [2025-11-14 11:04:37] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 11:04:37] Send RPC:4
+[Debug] [2025-11-14 11:04:37] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 11:04:37] End to send initialize chain cmd.
+[Debug] [2025-11-14 11:04:38] begin the exec of open cable cmd...
+[Debug] [2025-11-14 11:04:38] Begin to deal with chain from server...
+[Debug] [2025-11-14 11:04:38] Begin to set user chain...
+[Debug] [2025-11-14 11:04:38] End to set user chain.
+[Debug] [2025-11-14 11:04:38] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:38] End to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:38] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 11:04:38] Log::Print : PG2L25H
+[Debug] [2025-11-14 11:04:38] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 11:04:39] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project/generate_bitstream/led_test.sbit
+[Debug] [2025-11-14 11:04:39] begin to get device info from CFG file...
+[Debug] [2025-11-14 11:04:39] end to get device info from CFG file...
+[Debug] [2025-11-14 11:04:39] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:39] End to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:39] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:39] End to update graphic item and tree item ...
+[Debug] [2025-11-14 11:04:39] End to deal wiht chain from server.
+[Debug] [2025-11-14 11:04:39] end the exec of open cable cmd.
+[Debug] [2025-11-14 11:04:39] COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2025-11-14 11:04:39] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2025-11-14 11:04:43] Begin to send programming cmd...
+[Debug] [2025-11-14 11:04:43] Send RPC:5
+[Debug] [2025-11-14 11:04:43] Begin to send program data.
+[Debug] [2025-11-14 11:04:43] End to send program data.
+[Debug] [2025-11-14 11:04:43] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 11:04:44] The value of Progress is 6
+[Debug] [2025-11-14 11:04:44] The value of Progress is 10
+[Debug] [2025-11-14 11:04:44] The value of Progress is 15
+[Debug] [2025-11-14 11:04:45] The value of Progress is 20
+[Debug] [2025-11-14 11:04:45] The value of Progress is 25
+[Debug] [2025-11-14 11:04:46] The value of Progress is 30
+[Debug] [2025-11-14 11:04:46] The value of Progress is 35
+[Debug] [2025-11-14 11:04:47] The value of Progress is 40
+[Debug] [2025-11-14 11:04:47] The value of Progress is 45
+[Debug] [2025-11-14 11:04:48] The value of Progress is 50
+[Debug] [2025-11-14 11:04:48] The value of Progress is 55
+[Debug] [2025-11-14 11:04:49] The value of Progress is 60
+[Debug] [2025-11-14 11:04:49] The value of Progress is 65
+[Debug] [2025-11-14 11:04:50] The value of Progress is 70
+[Debug] [2025-11-14 11:04:50] The value of Progress is 75
+[Debug] [2025-11-14 11:04:51] The value of Progress is 80
+[Debug] [2025-11-14 11:04:51] The value of Progress is 85
+[Debug] [2025-11-14 11:04:52] The value of Progress is 90
+[Debug] [2025-11-14 11:04:52] The value of Progress is 95
+[Debug] [2025-11-14 11:04:53] The value of Progress is 100
+[Debug] [2025-11-14 11:04:53] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 11:04:53] End to send programming cmd.
+[Debug] [2025-11-14 11:04:53] Log::Print : The done bit is 1
+[Debug] [2025-11-14 11:04:53] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 11:05:02] Begin to Converte file.
+[Debug] [2025-11-14 11:05:13] begin to parse sfc file.
+[Debug] [2025-11-14 11:05:13] begin to get device info from CFG file...
+[Debug] [2025-11-14 11:05:13] end to get device info from CFG file...
+[Debug] [2025-11-14 11:05:13] begin to get device info from CFG file...
+[Debug] [2025-11-14 11:05:13] end to get device info from CFG file...
+[Debug] [2025-11-14 11:05:13] end to parse sfc file.
+[Debug] [2025-11-14 11:05:13] Log::Print : The Start Address of bit file E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project/generate_bitstream/led_test.sbit: 0x0
+[Debug] [2025-11-14 11:05:14] End to Converte file.
+[Debug] [2025-11-14 11:05:17] Begin to send scan outer flash cmd...
+[Debug] [2025-11-14 11:05:17] Send RPC:6
+[Debug] [2025-11-14 11:05:17] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2025-11-14 11:05:17] End to send scan outer flash cmd.
+[Debug] [2025-11-14 11:05:17] begin to exec scan jtag flash cmd...
+[Debug] [2025-11-14 11:05:17] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2025-11-14 11:05:17] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 11:05:17] End to update graphic item and tree item ...
+[Info] [2025-11-14 11:05:19] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project/generate_bitstream/led_test.sfc
+[Debug] [2025-11-14 11:05:19] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 11:05:19] end to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 11:05:19] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 11:05:19] End to update graphic item and tree item ...
+[Debug] [2025-11-14 11:05:19] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2025-11-14 11:05:19] end to exec scan jtag flash cmd...
+[Debug] [2025-11-14 11:05:19] COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.2 secs.
+[Debug] [2025-11-14 11:05:19] Log::Print : COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.2 secs.
+[Debug] [2025-11-14 11:05:20] begin to send promgram jtag flash cmd.
+[Debug] [2025-11-14 11:05:20] begin to send jtag flash erase cmd
+[Debug] [2025-11-14 11:05:20] Send RPC:7
+[Debug] [2025-11-14 11:05:20] Begin to send embed flash erase data.
+[Debug] [2025-11-14 11:05:20] Begin to send flash erase data.
+[Debug] [2025-11-14 11:05:20] End to send flash erase data.
+[Debug] [2025-11-14 11:05:20] End to send embed flash erase data.
+[Debug] [2025-11-14 11:05:20] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2025-11-14 11:05:20] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 11:05:20] The value of Progress is 1
+[Debug] [2025-11-14 11:05:22] The value of Progress is 10
+[Debug] [2025-11-14 11:05:22] The value of Progress is 15
+[Debug] [2025-11-14 11:05:23] The value of Progress is 21
+[Debug] [2025-11-14 11:05:23] The value of Progress is 26
+[Debug] [2025-11-14 11:05:24] The value of Progress is 31
+[Debug] [2025-11-14 11:05:24] The value of Progress is 36
+[Debug] [2025-11-14 11:05:24] The value of Progress is 42
+[Debug] [2025-11-14 11:05:25] The value of Progress is 47
+[Debug] [2025-11-14 11:05:25] The value of Progress is 52
+[Debug] [2025-11-14 11:05:26] The value of Progress is 57
+[Debug] [2025-11-14 11:05:26] The value of Progress is 63
+[Debug] [2025-11-14 11:05:27] The value of Progress is 68
+[Debug] [2025-11-14 11:05:27] The value of Progress is 73
+[Debug] [2025-11-14 11:05:27] The value of Progress is 78
+[Debug] [2025-11-14 11:05:28] The value of Progress is 84
+[Debug] [2025-11-14 11:05:28] The value of Progress is 89
+[Debug] [2025-11-14 11:05:29] The value of Progress is 94
+[Debug] [2025-11-14 11:05:29] The value of Progress is 100
+[Debug] [2025-11-14 11:05:29] COMMAND[Erase Outer Flash] execute finish, takes 8.7 secs.
+[Debug] [2025-11-14 11:05:29] end to send jtag flash erase cmd.
+[Debug] [2025-11-14 11:05:29] Send RPC:8
+[Debug] [2025-11-14 11:05:29] Begin to send jtag flash program data.
+[Debug] [2025-11-14 11:05:29] Begin to send flash program data.
+[Debug] [2025-11-14 11:05:29] End to send flash program data.
+[Debug] [2025-11-14 11:05:29] End to send embed flash program data.
+[Debug] [2025-11-14 11:05:29] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2025-11-14 11:05:29] Log::Print : COMMAND[Erase Outer Flash] execute finish, takes 8.7 secs.
+[Debug] [2025-11-14 11:05:29] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 11:05:29] The value of Progress is 1
+[Debug] [2025-11-14 11:05:31] The value of Progress is 6
+[Debug] [2025-11-14 11:05:32] The value of Progress is 10
+[Debug] [2025-11-14 11:05:33] The value of Progress is 15
+[Debug] [2025-11-14 11:05:35] The value of Progress is 20
+[Debug] [2025-11-14 11:05:36] The value of Progress is 25
+[Debug] [2025-11-14 11:05:38] The value of Progress is 30
+[Debug] [2025-11-14 11:05:39] The value of Progress is 35
+[Debug] [2025-11-14 11:05:41] The value of Progress is 40
+[Debug] [2025-11-14 11:05:42] The value of Progress is 45
+[Debug] [2025-11-14 11:05:43] The value of Progress is 50
+[Debug] [2025-11-14 11:05:45] The value of Progress is 55
+[Debug] [2025-11-14 11:05:46] The value of Progress is 60
+[Debug] [2025-11-14 11:05:48] The value of Progress is 65
+[Debug] [2025-11-14 11:05:49] The value of Progress is 70
+[Debug] [2025-11-14 11:05:50] The value of Progress is 75
+[Debug] [2025-11-14 11:05:52] The value of Progress is 80
+[Debug] [2025-11-14 11:05:53] The value of Progress is 85
+[Debug] [2025-11-14 11:05:55] The value of Progress is 90
+[Debug] [2025-11-14 11:05:56] The value of Progress is 95
+[Debug] [2025-11-14 11:05:57] The value of Progress is 100
+[Debug] [2025-11-14 11:05:57] COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 11:05:57] begin to send jtag flash verify cmd
+[Debug] [2025-11-14 11:05:57] Send RPC:9
+[Debug] [2025-11-14 11:05:57] Begin to send embed flash verify data.
+[Debug] [2025-11-14 11:05:57] Begin to send flash verify data.
+[Debug] [2025-11-14 11:05:57] End to send flash verify data.
+[Debug] [2025-11-14 11:05:57] End to send embed flash verify data.
+[Debug] [2025-11-14 11:05:57] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2025-11-14 11:05:57] Log::Print : COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 11:05:57] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 11:05:58] The value of Progress is 1
+[Debug] [2025-11-14 11:05:58] The value of Progress is 6
+[Debug] [2025-11-14 11:05:59] The value of Progress is 10
+[Debug] [2025-11-14 11:05:59] The value of Progress is 15
+[Debug] [2025-11-14 11:06:00] The value of Progress is 20
+[Debug] [2025-11-14 11:06:00] The value of Progress is 25
+[Debug] [2025-11-14 11:06:01] The value of Progress is 30
+[Debug] [2025-11-14 11:06:01] The value of Progress is 35
+[Debug] [2025-11-14 11:06:02] The value of Progress is 40
+[Debug] [2025-11-14 11:06:02] The value of Progress is 45
+[Debug] [2025-11-14 11:06:03] The value of Progress is 50
+[Debug] [2025-11-14 11:06:03] The value of Progress is 55
+[Debug] [2025-11-14 11:06:04] The value of Progress is 60
+[Debug] [2025-11-14 11:06:04] The value of Progress is 65
+[Debug] [2025-11-14 11:06:05] The value of Progress is 70
+[Debug] [2025-11-14 11:06:05] The value of Progress is 75
+[Debug] [2025-11-14 11:06:06] The value of Progress is 80
+[Debug] [2025-11-14 11:06:06] The value of Progress is 85
+[Debug] [2025-11-14 11:06:07] The value of Progress is 90
+[Debug] [2025-11-14 11:06:07] The value of Progress is 95
+[Debug] [2025-11-14 11:06:07] The value of Progress is 100
+[Debug] [2025-11-14 11:06:08] COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Debug] [2025-11-14 11:06:08] end to send jtag flash verify cmd
+[Debug] [2025-11-14 11:06:08] end to send jtag flash program cmd.
+[Debug] [2025-11-14 11:06:08] Log::Print : COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Info] [2025-11-14 11:06:30] /***************************End Configration***************************/
+[Info] [2025-11-21 16:04:12] /***************************Start Configuration***************************/
+[Info] [2025-11-21 16:04:12] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-21 16:04:12] Version: 146967
+[Info] [2025-11-21 16:04:13] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/01_led_test/project
+[Info] [2025-11-21 16:04:13] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/01_led_test/project
+[Debug] [2025-11-21 16:04:18] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-21 16:04:18] Client Local Address:192.168.1.102
+[Debug] [2025-11-21 16:04:18] Client Local Address:192.168.157.1
+[Debug] [2025-11-21 16:04:18] Client Local Address:192.168.244.1
+[Debug] [2025-11-21 16:04:18] Client Local Address:10.120.0.87
+[Debug] [2025-11-21 16:04:18] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-21 16:04:18] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-21 16:04:18] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-21 16:04:18] Finish.
+[Info] [2025-11-21 16:04:18] Connect server succeeded
+[Debug] [2025-11-21 16:04:18] Send RPC:1
+[Debug] [2025-11-21 16:04:18] Send cmd [check version information:40004] OK
+[Debug] [2025-11-21 16:04:18] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-21 16:04:18] Send RPC:2
+[Debug] [2025-11-21 16:04:18] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-21 16:04:18] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-21 16:04:18] Log::Print : COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-21 16:04:19] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-21 16:04:19] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-21 16:04:19] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-21 16:04:23] Send RPC:3
+[Debug] [2025-11-21 16:04:23] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-21 16:04:23] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-21 16:04:23] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-21 16:04:25] Begin to send initialize chain cmd...
+[Debug] [2025-11-21 16:04:25] Send RPC:4
+[Debug] [2025-11-21 16:04:25] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-21 16:04:25] End to send initialize chain cmd.
+[Debug] [2025-11-21 16:04:25] begin the exec of open cable cmd...
+[Debug] [2025-11-21 16:04:25] Begin to deal with chain from server...
+[Debug] [2025-11-21 16:04:25] Begin to set user chain...
+[Debug] [2025-11-21 16:04:25] End to set user chain.
+[Debug] [2025-11-21 16:04:25] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:25] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:25] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-21 16:04:25] Log::Print : PG2L25H
+[Debug] [2025-11-21 16:04:25] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-21 16:04:28] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/01_led_test/project/generate_bitstream/led_test.sbit
+[Debug] [2025-11-21 16:04:28] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:04:28] end to get device info from CFG file...
+[Debug] [2025-11-21 16:04:28] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:28] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:28] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:28] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:04:28] End to deal wiht chain from server.
+[Debug] [2025-11-21 16:04:28] end the exec of open cable cmd.
+[Debug] [2025-11-21 16:04:28] COMMAND[Open config cable] execute successfully, takes 3.3 secs.
+[Debug] [2025-11-21 16:04:28] Log::Print : COMMAND[Open config cable] execute successfully, takes 3.3 secs.
+[Debug] [2025-11-21 16:04:31] Begin to send programming cmd...
+[Debug] [2025-11-21 16:04:31] Send RPC:5
+[Debug] [2025-11-21 16:04:31] Begin to send program data.
+[Debug] [2025-11-21 16:04:31] End to send program data.
+[Debug] [2025-11-21 16:04:31] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:04:32] The value of Progress is 6
+[Debug] [2025-11-21 16:04:32] The value of Progress is 10
+[Debug] [2025-11-21 16:04:33] The value of Progress is 15
+[Debug] [2025-11-21 16:04:33] The value of Progress is 20
+[Debug] [2025-11-21 16:04:34] The value of Progress is 25
+[Debug] [2025-11-21 16:04:34] The value of Progress is 30
+[Debug] [2025-11-21 16:04:35] The value of Progress is 35
+[Debug] [2025-11-21 16:04:35] The value of Progress is 40
+[Debug] [2025-11-21 16:04:36] The value of Progress is 45
+[Debug] [2025-11-21 16:04:36] The value of Progress is 50
+[Debug] [2025-11-21 16:04:36] The value of Progress is 55
+[Debug] [2025-11-21 16:04:37] The value of Progress is 60
+[Debug] [2025-11-21 16:04:37] The value of Progress is 65
+[Debug] [2025-11-21 16:04:38] The value of Progress is 70
+[Debug] [2025-11-21 16:04:38] The value of Progress is 75
+[Debug] [2025-11-21 16:04:39] The value of Progress is 80
+[Debug] [2025-11-21 16:04:39] The value of Progress is 85
+[Debug] [2025-11-21 16:04:40] The value of Progress is 90
+[Debug] [2025-11-21 16:04:40] The value of Progress is 95
+[Debug] [2025-11-21 16:04:41] The value of Progress is 100
+[Debug] [2025-11-21 16:04:41] COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:04:41] End to send programming cmd.
+[Debug] [2025-11-21 16:04:41] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:04:41] Log::Print : COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:06:55] Begin to assign configuration file...
+[Info] [2025-11-21 16:07:03] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/project/generate_bitstream/key_led_top.sbit
+[Debug] [2025-11-21 16:07:03] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:07:03] end to get device info from CFG file...
+[Debug] [2025-11-21 16:07:03] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:07:03] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:07:03] End to assign configuration file...
+[Debug] [2025-11-21 16:07:04] Begin to send programming cmd...
+[Debug] [2025-11-21 16:07:04] Send RPC:6
+[Debug] [2025-11-21 16:07:04] Begin to send program data.
+[Debug] [2025-11-21 16:07:04] End to send program data.
+[Debug] [2025-11-21 16:07:04] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:07:05] The value of Progress is 6
+[Debug] [2025-11-21 16:07:05] The value of Progress is 10
+[Debug] [2025-11-21 16:07:06] The value of Progress is 15
+[Debug] [2025-11-21 16:07:06] The value of Progress is 20
+[Debug] [2025-11-21 16:07:06] The value of Progress is 25
+[Debug] [2025-11-21 16:07:07] The value of Progress is 30
+[Debug] [2025-11-21 16:07:07] The value of Progress is 35
+[Debug] [2025-11-21 16:07:08] The value of Progress is 40
+[Debug] [2025-11-21 16:07:08] The value of Progress is 45
+[Debug] [2025-11-21 16:07:09] The value of Progress is 50
+[Debug] [2025-11-21 16:07:09] The value of Progress is 55
+[Debug] [2025-11-21 16:07:10] The value of Progress is 60
+[Debug] [2025-11-21 16:07:10] The value of Progress is 65
+[Debug] [2025-11-21 16:07:11] The value of Progress is 70
+[Debug] [2025-11-21 16:07:11] The value of Progress is 75
+[Debug] [2025-11-21 16:07:12] The value of Progress is 80
+[Debug] [2025-11-21 16:07:12] The value of Progress is 85
+[Debug] [2025-11-21 16:07:13] The value of Progress is 90
+[Debug] [2025-11-21 16:07:13] The value of Progress is 95
+[Debug] [2025-11-21 16:07:14] The value of Progress is 100
+[Debug] [2025-11-21 16:07:14] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:07:14] End to send programming cmd.
+[Debug] [2025-11-21 16:07:14] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:07:14] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:16:29] Begin to assign configuration file...
+[Info] [2025-11-21 16:16:38] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-21 16:16:38] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:16:38] end to get device info from CFG file...
+[Debug] [2025-11-21 16:16:38] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:16:38] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:16:38] End to assign configuration file...
+[Debug] [2025-11-21 16:16:41] Begin to send programming cmd...
+[Debug] [2025-11-21 16:16:41] Send RPC:7
+[Debug] [2025-11-21 16:16:41] Begin to send program data.
+[Debug] [2025-11-21 16:16:41] End to send program data.
+[Debug] [2025-11-21 16:16:41] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:16:42] The value of Progress is 6
+[Debug] [2025-11-21 16:16:42] The value of Progress is 10
+[Debug] [2025-11-21 16:16:43] The value of Progress is 15
+[Debug] [2025-11-21 16:16:43] The value of Progress is 20
+[Debug] [2025-11-21 16:16:44] The value of Progress is 25
+[Debug] [2025-11-21 16:16:44] The value of Progress is 30
+[Debug] [2025-11-21 16:16:45] The value of Progress is 35
+[Debug] [2025-11-21 16:16:45] The value of Progress is 40
+[Debug] [2025-11-21 16:16:46] The value of Progress is 45
+[Debug] [2025-11-21 16:16:46] The value of Progress is 50
+[Debug] [2025-11-21 16:16:47] The value of Progress is 55
+[Debug] [2025-11-21 16:16:47] The value of Progress is 60
+[Debug] [2025-11-21 16:16:47] The value of Progress is 65
+[Debug] [2025-11-21 16:16:48] The value of Progress is 70
+[Debug] [2025-11-21 16:16:48] The value of Progress is 75
+[Debug] [2025-11-21 16:16:49] The value of Progress is 80
+[Debug] [2025-11-21 16:16:49] The value of Progress is 85
+[Debug] [2025-11-21 16:16:50] The value of Progress is 90
+[Debug] [2025-11-21 16:16:50] The value of Progress is 95
+[Debug] [2025-11-21 16:16:51] The value of Progress is 100
+[Debug] [2025-11-21 16:16:51] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:16:51] End to send programming cmd.
+[Debug] [2025-11-21 16:16:51] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:16:51] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:16:58] Begin to send programming cmd...
+[Debug] [2025-11-21 16:16:58] Send RPC:8
+[Debug] [2025-11-21 16:16:58] Begin to send program data.
+[Debug] [2025-11-21 16:16:58] End to send program data.
+[Debug] [2025-11-21 16:16:58] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:16:58] The value of Progress is 6
+[Debug] [2025-11-21 16:16:59] The value of Progress is 10
+[Debug] [2025-11-21 16:16:59] The value of Progress is 15
+[Debug] [2025-11-21 16:17:00] The value of Progress is 20
+[Debug] [2025-11-21 16:17:00] The value of Progress is 25
+[Debug] [2025-11-21 16:17:01] The value of Progress is 30
+[Debug] [2025-11-21 16:17:01] The value of Progress is 35
+[Debug] [2025-11-21 16:17:02] The value of Progress is 40
+[Debug] [2025-11-21 16:17:02] The value of Progress is 45
+[Debug] [2025-11-21 16:17:02] The value of Progress is 50
+[Debug] [2025-11-21 16:17:03] The value of Progress is 55
+[Debug] [2025-11-21 16:17:03] The value of Progress is 60
+[Debug] [2025-11-21 16:17:04] The value of Progress is 65
+[Debug] [2025-11-21 16:17:04] The value of Progress is 70
+[Debug] [2025-11-21 16:17:05] The value of Progress is 75
+[Debug] [2025-11-21 16:17:05] The value of Progress is 80
+[Debug] [2025-11-21 16:17:06] The value of Progress is 85
+[Debug] [2025-11-21 16:17:06] The value of Progress is 90
+[Debug] [2025-11-21 16:17:07] The value of Progress is 95
+[Debug] [2025-11-21 16:17:07] The value of Progress is 100
+[Debug] [2025-11-21 16:17:07] COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:17:07] End to send programming cmd.
+[Debug] [2025-11-21 16:17:07] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:17:07] Log::Print : COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:20:24] Begin to assign configuration file...
+[Info] [2025-11-21 16:21:08] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/10_hdmi_block_move/project/generate_bitstream/hdmi_block_move.sbit
+[Debug] [2025-11-21 16:21:08] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:21:08] end to get device info from CFG file...
+[Debug] [2025-11-21 16:21:08] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:21:08] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:21:08] End to assign configuration file...
+[Debug] [2025-11-21 16:21:10] Begin to send programming cmd...
+[Debug] [2025-11-21 16:21:10] Send RPC:9
+[Debug] [2025-11-21 16:21:10] Begin to send program data.
+[Debug] [2025-11-21 16:21:10] End to send program data.
+[Debug] [2025-11-21 16:21:10] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:21:11] The value of Progress is 6
+[Debug] [2025-11-21 16:21:11] The value of Progress is 10
+[Debug] [2025-11-21 16:21:12] The value of Progress is 15
+[Debug] [2025-11-21 16:21:12] The value of Progress is 20
+[Debug] [2025-11-21 16:21:13] The value of Progress is 25
+[Debug] [2025-11-21 16:21:13] The value of Progress is 30
+[Debug] [2025-11-21 16:21:14] The value of Progress is 35
+[Debug] [2025-11-21 16:21:14] The value of Progress is 40
+[Debug] [2025-11-21 16:21:15] The value of Progress is 45
+[Debug] [2025-11-21 16:21:15] The value of Progress is 50
+[Debug] [2025-11-21 16:21:16] The value of Progress is 55
+[Debug] [2025-11-21 16:21:16] The value of Progress is 60
+[Debug] [2025-11-21 16:21:17] The value of Progress is 65
+[Debug] [2025-11-21 16:21:17] The value of Progress is 70
+[Debug] [2025-11-21 16:21:17] The value of Progress is 75
+[Debug] [2025-11-21 16:21:18] The value of Progress is 80
+[Debug] [2025-11-21 16:21:18] The value of Progress is 85
+[Debug] [2025-11-21 16:21:19] The value of Progress is 90
+[Debug] [2025-11-21 16:21:19] The value of Progress is 95
+[Debug] [2025-11-21 16:21:20] The value of Progress is 100
+[Debug] [2025-11-21 16:21:20] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:21:20] End to send programming cmd.
+[Debug] [2025-11-21 16:21:20] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:21:20] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:23:06] Begin to assign configuration file...
+[Info] [2025-11-21 16:23:21] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/12_HDMI_picture_display/project/generate_bitstream/hdmi_picture_display.sbit
+[Debug] [2025-11-21 16:23:21] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:23:21] end to get device info from CFG file...
+[Debug] [2025-11-21 16:23:21] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:23:21] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:23:21] End to assign configuration file...
+[Debug] [2025-11-21 16:23:23] Begin to send programming cmd...
+[Debug] [2025-11-21 16:23:23] Send RPC:10
+[Debug] [2025-11-21 16:23:23] Begin to send program data.
+[Debug] [2025-11-21 16:23:23] End to send program data.
+[Debug] [2025-11-21 16:23:23] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:23:24] The value of Progress is 6
+[Debug] [2025-11-21 16:23:24] The value of Progress is 10
+[Debug] [2025-11-21 16:23:25] The value of Progress is 15
+[Debug] [2025-11-21 16:23:25] The value of Progress is 20
+[Debug] [2025-11-21 16:23:26] The value of Progress is 25
+[Debug] [2025-11-21 16:23:26] The value of Progress is 30
+[Debug] [2025-11-21 16:23:27] The value of Progress is 35
+[Debug] [2025-11-21 16:23:27] The value of Progress is 40
+[Debug] [2025-11-21 16:23:28] The value of Progress is 45
+[Debug] [2025-11-21 16:23:28] The value of Progress is 50
+[Debug] [2025-11-21 16:23:28] The value of Progress is 55
+[Debug] [2025-11-21 16:23:29] The value of Progress is 60
+[Debug] [2025-11-21 16:23:29] The value of Progress is 65
+[Debug] [2025-11-21 16:23:30] The value of Progress is 70
+[Debug] [2025-11-21 16:23:30] The value of Progress is 75
+[Debug] [2025-11-21 16:23:31] The value of Progress is 80
+[Debug] [2025-11-21 16:23:31] The value of Progress is 85
+[Debug] [2025-11-21 16:23:32] The value of Progress is 90
+[Debug] [2025-11-21 16:23:32] The value of Progress is 95
+[Debug] [2025-11-21 16:23:33] The value of Progress is 100
+[Debug] [2025-11-21 16:23:33] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:23:33] End to send programming cmd.
+[Debug] [2025-11-21 16:23:33] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:23:33] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:24:27] Begin to assign configuration file...
+[Info] [2025-11-21 16:24:40] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/13_HDMI_picture_char_add/project/generate_bitstream/hdmi_picture_char_add.sbit
+[Debug] [2025-11-21 16:24:40] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:24:40] end to get device info from CFG file...
+[Debug] [2025-11-21 16:24:40] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:24:40] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:24:40] End to assign configuration file...
+[Debug] [2025-11-21 16:24:41] Begin to send programming cmd...
+[Debug] [2025-11-21 16:24:41] Send RPC:11
+[Debug] [2025-11-21 16:24:41] Begin to send program data.
+[Debug] [2025-11-21 16:24:41] End to send program data.
+[Debug] [2025-11-21 16:24:41] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:24:42] The value of Progress is 6
+[Debug] [2025-11-21 16:24:42] The value of Progress is 10
+[Debug] [2025-11-21 16:24:43] The value of Progress is 15
+[Debug] [2025-11-21 16:24:43] The value of Progress is 20
+[Debug] [2025-11-21 16:24:44] The value of Progress is 25
+[Debug] [2025-11-21 16:24:44] The value of Progress is 30
+[Debug] [2025-11-21 16:24:45] The value of Progress is 35
+[Debug] [2025-11-21 16:24:45] The value of Progress is 40
+[Debug] [2025-11-21 16:24:46] The value of Progress is 45
+[Debug] [2025-11-21 16:24:46] The value of Progress is 50
+[Debug] [2025-11-21 16:24:47] The value of Progress is 55
+[Debug] [2025-11-21 16:24:47] The value of Progress is 60
+[Debug] [2025-11-21 16:24:48] The value of Progress is 65
+[Debug] [2025-11-21 16:24:48] The value of Progress is 70
+[Debug] [2025-11-21 16:24:48] The value of Progress is 75
+[Debug] [2025-11-21 16:24:49] The value of Progress is 80
+[Debug] [2025-11-21 16:24:49] The value of Progress is 85
+[Debug] [2025-11-21 16:24:50] The value of Progress is 90
+[Debug] [2025-11-21 16:24:50] The value of Progress is 95
+[Debug] [2025-11-21 16:24:51] The value of Progress is 100
+[Debug] [2025-11-21 16:24:51] COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:24:51] End to send programming cmd.
+[Debug] [2025-11-21 16:24:51] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:24:51] Log::Print : COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-21 16:24:54] Begin to send programming cmd...
+[Debug] [2025-11-21 16:24:54] Send RPC:12
+[Debug] [2025-11-21 16:24:54] Begin to send program data.
+[Debug] [2025-11-21 16:24:54] End to send program data.
+[Debug] [2025-11-21 16:24:54] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:24:54] The value of Progress is 6
+[Debug] [2025-11-21 16:24:55] The value of Progress is 10
+[Debug] [2025-11-21 16:24:55] The value of Progress is 15
+[Debug] [2025-11-21 16:24:56] The value of Progress is 20
+[Debug] [2025-11-21 16:24:56] The value of Progress is 25
+[Debug] [2025-11-21 16:24:57] The value of Progress is 30
+[Debug] [2025-11-21 16:24:57] The value of Progress is 35
+[Debug] [2025-11-21 16:24:58] The value of Progress is 40
+[Debug] [2025-11-21 16:24:58] The value of Progress is 45
+[Debug] [2025-11-21 16:24:59] The value of Progress is 50
+[Debug] [2025-11-21 16:24:59] The value of Progress is 55
+[Debug] [2025-11-21 16:25:00] The value of Progress is 60
+[Debug] [2025-11-21 16:25:00] The value of Progress is 65
+[Debug] [2025-11-21 16:25:01] The value of Progress is 70
+[Debug] [2025-11-21 16:25:01] The value of Progress is 75
+[Debug] [2025-11-21 16:25:01] The value of Progress is 80
+[Debug] [2025-11-21 16:25:02] The value of Progress is 85
+[Debug] [2025-11-21 16:25:02] The value of Progress is 90
+[Debug] [2025-11-21 16:25:03] The value of Progress is 95
+[Debug] [2025-11-21 16:25:03] The value of Progress is 100
+[Debug] [2025-11-21 16:25:04] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:25:04] End to send programming cmd.
+[Debug] [2025-11-21 16:25:04] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:25:04] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:26:24] Begin to send programming cmd...
+[Debug] [2025-11-21 16:26:24] Send RPC:13
+[Debug] [2025-11-21 16:26:24] Begin to send program data.
+[Debug] [2025-11-21 16:26:24] End to send program data.
+[Debug] [2025-11-21 16:26:24] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:26:24] The value of Progress is 6
+[Debug] [2025-11-21 16:26:25] The value of Progress is 10
+[Debug] [2025-11-21 16:26:25] The value of Progress is 15
+[Debug] [2025-11-21 16:26:26] The value of Progress is 20
+[Debug] [2025-11-21 16:26:26] The value of Progress is 25
+[Debug] [2025-11-21 16:26:27] The value of Progress is 30
+[Debug] [2025-11-21 16:26:27] The value of Progress is 35
+[Debug] [2025-11-21 16:26:28] The value of Progress is 40
+[Debug] [2025-11-21 16:26:28] The value of Progress is 45
+[Debug] [2025-11-21 16:26:29] The value of Progress is 50
+[Debug] [2025-11-21 16:26:29] The value of Progress is 55
+[Debug] [2025-11-21 16:26:30] The value of Progress is 60
+[Debug] [2025-11-21 16:26:30] The value of Progress is 65
+[Debug] [2025-11-21 16:26:30] The value of Progress is 70
+[Debug] [2025-11-21 16:26:31] The value of Progress is 75
+[Debug] [2025-11-21 16:26:31] The value of Progress is 80
+[Debug] [2025-11-21 16:26:32] The value of Progress is 85
+[Debug] [2025-11-21 16:26:32] The value of Progress is 90
+[Debug] [2025-11-21 16:26:33] The value of Progress is 95
+[Debug] [2025-11-21 16:26:33] The value of Progress is 100
+[Debug] [2025-11-21 16:26:34] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:26:34] End to send programming cmd.
+[Debug] [2025-11-21 16:26:34] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:26:34] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:27:31] Begin to send programming cmd...
+[Debug] [2025-11-21 16:27:31] Send RPC:14
+[Debug] [2025-11-21 16:27:31] Begin to send program data.
+[Debug] [2025-11-21 16:27:31] End to send program data.
+[Debug] [2025-11-21 16:27:31] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:27:32] The value of Progress is 6
+[Debug] [2025-11-21 16:27:32] The value of Progress is 10
+[Debug] [2025-11-21 16:27:32] The value of Progress is 15
+[Debug] [2025-11-21 16:27:33] The value of Progress is 20
+[Debug] [2025-11-21 16:27:33] The value of Progress is 25
+[Debug] [2025-11-21 16:27:34] The value of Progress is 30
+[Debug] [2025-11-21 16:27:34] The value of Progress is 35
+[Debug] [2025-11-21 16:27:35] The value of Progress is 40
+[Debug] [2025-11-21 16:27:35] The value of Progress is 45
+[Debug] [2025-11-21 16:27:36] The value of Progress is 50
+[Debug] [2025-11-21 16:27:36] The value of Progress is 55
+[Debug] [2025-11-21 16:27:37] The value of Progress is 60
+[Debug] [2025-11-21 16:27:37] The value of Progress is 65
+[Debug] [2025-11-21 16:27:38] The value of Progress is 70
+[Debug] [2025-11-21 16:27:38] The value of Progress is 75
+[Debug] [2025-11-21 16:27:39] The value of Progress is 80
+[Debug] [2025-11-21 16:27:39] The value of Progress is 85
+[Debug] [2025-11-21 16:27:40] The value of Progress is 90
+[Debug] [2025-11-21 16:27:40] The value of Progress is 95
+[Debug] [2025-11-21 16:27:41] The value of Progress is 100
+[Debug] [2025-11-21 16:27:41] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:27:41] End to send programming cmd.
+[Debug] [2025-11-21 16:27:41] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:27:41] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:28:57] Begin to assign configuration file...
+[Info] [2025-11-21 16:29:05] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/14_HDMI_picture_grey/project/generate_bitstream/hdmi_picture_grey.sbit
+[Debug] [2025-11-21 16:29:05] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:29:05] end to get device info from CFG file...
+[Debug] [2025-11-21 16:29:05] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:29:05] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:29:05] End to assign configuration file...
+[Debug] [2025-11-21 16:29:07] Begin to send programming cmd...
+[Debug] [2025-11-21 16:29:07] Send RPC:15
+[Debug] [2025-11-21 16:29:07] Begin to send program data.
+[Debug] [2025-11-21 16:29:07] End to send program data.
+[Debug] [2025-11-21 16:29:07] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:29:07] The value of Progress is 6
+[Debug] [2025-11-21 16:29:08] The value of Progress is 10
+[Debug] [2025-11-21 16:29:08] The value of Progress is 15
+[Debug] [2025-11-21 16:29:09] The value of Progress is 20
+[Debug] [2025-11-21 16:29:09] The value of Progress is 25
+[Debug] [2025-11-21 16:29:10] The value of Progress is 30
+[Debug] [2025-11-21 16:29:10] The value of Progress is 35
+[Debug] [2025-11-21 16:29:11] The value of Progress is 40
+[Debug] [2025-11-21 16:29:11] The value of Progress is 45
+[Debug] [2025-11-21 16:29:12] The value of Progress is 50
+[Debug] [2025-11-21 16:29:12] The value of Progress is 55
+[Debug] [2025-11-21 16:29:13] The value of Progress is 60
+[Debug] [2025-11-21 16:29:13] The value of Progress is 65
+[Debug] [2025-11-21 16:29:14] The value of Progress is 70
+[Debug] [2025-11-21 16:29:14] The value of Progress is 75
+[Debug] [2025-11-21 16:29:15] The value of Progress is 80
+[Debug] [2025-11-21 16:29:15] The value of Progress is 85
+[Debug] [2025-11-21 16:29:15] The value of Progress is 90
+[Debug] [2025-11-21 16:29:16] The value of Progress is 95
+[Debug] [2025-11-21 16:29:16] The value of Progress is 100
+[Debug] [2025-11-21 16:29:17] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:29:17] End to send programming cmd.
+[Debug] [2025-11-21 16:29:17] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:29:17] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:30:43] Begin to assign configuration file...
+[Info] [2025-11-21 16:30:53] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/16_HDMI_picture_binarization/project/generate_bitstream/hdmi_picture_binarization.sbit
+[Debug] [2025-11-21 16:30:53] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:30:53] end to get device info from CFG file...
+[Debug] [2025-11-21 16:30:53] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:30:53] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:30:53] End to assign configuration file...
+[Debug] [2025-11-21 16:30:58] Begin to send programming cmd...
+[Debug] [2025-11-21 16:30:58] Send RPC:16
+[Debug] [2025-11-21 16:30:58] Begin to send program data.
+[Debug] [2025-11-21 16:30:58] End to send program data.
+[Debug] [2025-11-21 16:30:58] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:30:59] The value of Progress is 6
+[Debug] [2025-11-21 16:30:59] The value of Progress is 10
+[Debug] [2025-11-21 16:31:00] The value of Progress is 15
+[Debug] [2025-11-21 16:31:00] The value of Progress is 20
+[Debug] [2025-11-21 16:31:01] The value of Progress is 25
+[Debug] [2025-11-21 16:31:01] The value of Progress is 30
+[Debug] [2025-11-21 16:31:02] The value of Progress is 35
+[Debug] [2025-11-21 16:31:02] The value of Progress is 40
+[Debug] [2025-11-21 16:31:03] The value of Progress is 45
+[Debug] [2025-11-21 16:31:03] The value of Progress is 50
+[Debug] [2025-11-21 16:31:04] The value of Progress is 55
+[Debug] [2025-11-21 16:31:04] The value of Progress is 60
+[Debug] [2025-11-21 16:31:05] The value of Progress is 65
+[Debug] [2025-11-21 16:31:05] The value of Progress is 70
+[Debug] [2025-11-21 16:31:06] The value of Progress is 75
+[Debug] [2025-11-21 16:31:06] The value of Progress is 80
+[Debug] [2025-11-21 16:31:07] The value of Progress is 85
+[Debug] [2025-11-21 16:31:07] The value of Progress is 90
+[Debug] [2025-11-21 16:31:08] The value of Progress is 95
+[Debug] [2025-11-21 16:31:08] The value of Progress is 100
+[Debug] [2025-11-21 16:31:08] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:31:08] End to send programming cmd.
+[Debug] [2025-11-21 16:31:08] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:31:08] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:32:51] Begin to assign configuration file...
+[Info] [2025-11-21 16:33:09] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/17_HDMI_picture_ero_dil/project/generate_bitstream/hdmi_picture_ero_dil.sbit
+[Debug] [2025-11-21 16:33:09] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:33:09] end to get device info from CFG file...
+[Debug] [2025-11-21 16:33:09] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:33:09] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:33:09] End to assign configuration file...
+[Debug] [2025-11-21 16:33:16] Begin to send programming cmd...
+[Debug] [2025-11-21 16:33:16] Send RPC:17
+[Debug] [2025-11-21 16:33:16] Begin to send program data.
+[Debug] [2025-11-21 16:33:16] End to send program data.
+[Debug] [2025-11-21 16:33:16] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:33:17] The value of Progress is 6
+[Debug] [2025-11-21 16:33:17] The value of Progress is 10
+[Debug] [2025-11-21 16:33:17] The value of Progress is 15
+[Debug] [2025-11-21 16:33:18] The value of Progress is 20
+[Debug] [2025-11-21 16:33:18] The value of Progress is 25
+[Debug] [2025-11-21 16:33:19] The value of Progress is 30
+[Debug] [2025-11-21 16:33:19] The value of Progress is 35
+[Debug] [2025-11-21 16:33:20] The value of Progress is 40
+[Debug] [2025-11-21 16:33:20] The value of Progress is 45
+[Debug] [2025-11-21 16:33:21] The value of Progress is 50
+[Debug] [2025-11-21 16:33:21] The value of Progress is 55
+[Debug] [2025-11-21 16:33:22] The value of Progress is 60
+[Debug] [2025-11-21 16:33:22] The value of Progress is 65
+[Debug] [2025-11-21 16:33:23] The value of Progress is 70
+[Debug] [2025-11-21 16:33:23] The value of Progress is 75
+[Debug] [2025-11-21 16:33:24] The value of Progress is 80
+[Debug] [2025-11-21 16:33:24] The value of Progress is 85
+[Debug] [2025-11-21 16:33:25] The value of Progress is 90
+[Debug] [2025-11-21 16:33:25] The value of Progress is 95
+[Debug] [2025-11-21 16:33:26] The value of Progress is 100
+[Debug] [2025-11-21 16:33:26] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:33:26] End to send programming cmd.
+[Debug] [2025-11-21 16:33:26] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:33:26] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:34:35] Begin to assign configuration file...
+[Info] [2025-11-21 16:34:46] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/18_HDMI_picture_mid_filter/project/generate_bitstream/hdmi_picture_mid_filter.sbit
+[Debug] [2025-11-21 16:34:46] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:34:46] end to get device info from CFG file...
+[Debug] [2025-11-21 16:34:46] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:34:46] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:34:46] End to assign configuration file...
+[Debug] [2025-11-21 16:34:47] Begin to send programming cmd...
+[Debug] [2025-11-21 16:34:47] Send RPC:18
+[Debug] [2025-11-21 16:34:47] Begin to send program data.
+[Debug] [2025-11-21 16:34:47] End to send program data.
+[Debug] [2025-11-21 16:34:47] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:34:48] The value of Progress is 6
+[Debug] [2025-11-21 16:34:49] The value of Progress is 10
+[Debug] [2025-11-21 16:34:49] The value of Progress is 15
+[Debug] [2025-11-21 16:34:50] The value of Progress is 20
+[Debug] [2025-11-21 16:34:50] The value of Progress is 25
+[Debug] [2025-11-21 16:34:51] The value of Progress is 30
+[Debug] [2025-11-21 16:34:51] The value of Progress is 35
+[Debug] [2025-11-21 16:34:52] The value of Progress is 40
+[Debug] [2025-11-21 16:34:52] The value of Progress is 45
+[Debug] [2025-11-21 16:34:52] The value of Progress is 50
+[Debug] [2025-11-21 16:34:53] The value of Progress is 55
+[Debug] [2025-11-21 16:34:53] The value of Progress is 60
+[Debug] [2025-11-21 16:34:54] The value of Progress is 65
+[Debug] [2025-11-21 16:34:54] The value of Progress is 70
+[Debug] [2025-11-21 16:34:55] The value of Progress is 75
+[Debug] [2025-11-21 16:34:55] The value of Progress is 80
+[Debug] [2025-11-21 16:34:56] The value of Progress is 85
+[Debug] [2025-11-21 16:34:56] The value of Progress is 90
+[Debug] [2025-11-21 16:34:57] The value of Progress is 95
+[Debug] [2025-11-21 16:34:57] The value of Progress is 100
+[Debug] [2025-11-21 16:34:58] COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-21 16:34:58] End to send programming cmd.
+[Debug] [2025-11-21 16:34:58] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:34:58] Log::Print : COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-21 16:36:15] Begin to assign configuration file...
+[Info] [2025-11-21 16:36:25] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/19_HDMI_picture_aver_filter/project/generate_bitstream/hdmi_picture_aver_filter.sbit
+[Debug] [2025-11-21 16:36:25] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:36:25] end to get device info from CFG file...
+[Debug] [2025-11-21 16:36:25] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:36:25] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:36:25] End to assign configuration file...
+[Debug] [2025-11-21 16:36:28] Begin to send programming cmd...
+[Debug] [2025-11-21 16:36:28] Send RPC:19
+[Debug] [2025-11-21 16:36:28] Begin to send program data.
+[Debug] [2025-11-21 16:36:28] End to send program data.
+[Debug] [2025-11-21 16:36:28] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:36:29] The value of Progress is 6
+[Debug] [2025-11-21 16:36:29] The value of Progress is 10
+[Debug] [2025-11-21 16:36:30] The value of Progress is 15
+[Debug] [2025-11-21 16:36:30] The value of Progress is 20
+[Debug] [2025-11-21 16:36:31] The value of Progress is 25
+[Debug] [2025-11-21 16:36:31] The value of Progress is 30
+[Debug] [2025-11-21 16:36:31] The value of Progress is 35
+[Debug] [2025-11-21 16:36:32] The value of Progress is 40
+[Debug] [2025-11-21 16:36:32] The value of Progress is 45
+[Debug] [2025-11-21 16:36:33] The value of Progress is 50
+[Debug] [2025-11-21 16:36:33] The value of Progress is 55
+[Debug] [2025-11-21 16:36:34] The value of Progress is 60
+[Debug] [2025-11-21 16:36:34] The value of Progress is 65
+[Debug] [2025-11-21 16:36:35] The value of Progress is 70
+[Debug] [2025-11-21 16:36:35] The value of Progress is 75
+[Debug] [2025-11-21 16:36:36] The value of Progress is 80
+[Debug] [2025-11-21 16:36:36] The value of Progress is 85
+[Debug] [2025-11-21 16:36:37] The value of Progress is 90
+[Debug] [2025-11-21 16:36:37] The value of Progress is 95
+[Debug] [2025-11-21 16:36:38] The value of Progress is 100
+[Debug] [2025-11-21 16:36:38] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:36:38] End to send programming cmd.
+[Debug] [2025-11-21 16:36:38] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:36:38] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:38:01] Begin to assign configuration file...
+[Info] [2025-11-21 16:38:11] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/20_HDMI_picture_gauss_filter/project/generate_bitstream/hdmi_picture_gauss_filter.sbit
+[Debug] [2025-11-21 16:38:11] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:38:11] end to get device info from CFG file...
+[Debug] [2025-11-21 16:38:11] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:38:11] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:38:11] End to assign configuration file...
+[Debug] [2025-11-21 16:38:22] Begin to send programming cmd...
+[Debug] [2025-11-21 16:38:22] Send RPC:20
+[Debug] [2025-11-21 16:38:22] Begin to send program data.
+[Debug] [2025-11-21 16:38:22] End to send program data.
+[Debug] [2025-11-21 16:38:22] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:38:23] The value of Progress is 6
+[Debug] [2025-11-21 16:38:24] The value of Progress is 10
+[Debug] [2025-11-21 16:38:24] The value of Progress is 15
+[Debug] [2025-11-21 16:38:24] The value of Progress is 20
+[Debug] [2025-11-21 16:38:25] The value of Progress is 25
+[Debug] [2025-11-21 16:38:25] The value of Progress is 30
+[Debug] [2025-11-21 16:38:26] The value of Progress is 35
+[Debug] [2025-11-21 16:38:26] The value of Progress is 40
+[Debug] [2025-11-21 16:38:27] The value of Progress is 45
+[Debug] [2025-11-21 16:38:27] The value of Progress is 50
+[Debug] [2025-11-21 16:38:28] The value of Progress is 55
+[Debug] [2025-11-21 16:38:28] The value of Progress is 60
+[Debug] [2025-11-21 16:38:29] The value of Progress is 65
+[Debug] [2025-11-21 16:38:29] The value of Progress is 70
+[Debug] [2025-11-21 16:38:30] The value of Progress is 75
+[Debug] [2025-11-21 16:38:30] The value of Progress is 80
+[Debug] [2025-11-21 16:38:31] The value of Progress is 85
+[Debug] [2025-11-21 16:38:31] The value of Progress is 90
+[Debug] [2025-11-21 16:38:32] The value of Progress is 95
+[Debug] [2025-11-21 16:38:32] The value of Progress is 100
+[Debug] [2025-11-21 16:38:32] COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-21 16:38:32] End to send programming cmd.
+[Debug] [2025-11-21 16:38:32] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:38:32] Log::Print : COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-21 16:39:58] Begin to assign configuration file...
+[Info] [2025-11-21 16:40:07] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/21_HDMI_picture_sobel/project/generate_bitstream/hdmi_picture_sobel.sbit
+[Debug] [2025-11-21 16:40:07] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:40:07] end to get device info from CFG file...
+[Debug] [2025-11-21 16:40:07] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:40:07] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:40:07] End to assign configuration file...
+[Debug] [2025-11-21 16:40:09] Begin to send programming cmd...
+[Debug] [2025-11-21 16:40:09] Send RPC:21
+[Debug] [2025-11-21 16:40:09] Begin to send program data.
+[Debug] [2025-11-21 16:40:09] End to send program data.
+[Debug] [2025-11-21 16:40:09] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:40:09] The value of Progress is 6
+[Debug] [2025-11-21 16:40:10] The value of Progress is 10
+[Debug] [2025-11-21 16:40:10] The value of Progress is 15
+[Debug] [2025-11-21 16:40:11] The value of Progress is 20
+[Debug] [2025-11-21 16:40:11] The value of Progress is 25
+[Debug] [2025-11-21 16:40:12] The value of Progress is 30
+[Debug] [2025-11-21 16:40:12] The value of Progress is 35
+[Debug] [2025-11-21 16:40:13] The value of Progress is 40
+[Debug] [2025-11-21 16:40:13] The value of Progress is 45
+[Debug] [2025-11-21 16:40:14] The value of Progress is 50
+[Debug] [2025-11-21 16:40:14] The value of Progress is 55
+[Debug] [2025-11-21 16:40:15] The value of Progress is 60
+[Debug] [2025-11-21 16:40:15] The value of Progress is 65
+[Debug] [2025-11-21 16:40:15] The value of Progress is 70
+[Debug] [2025-11-21 16:40:16] The value of Progress is 75
+[Debug] [2025-11-21 16:40:16] The value of Progress is 80
+[Debug] [2025-11-21 16:40:17] The value of Progress is 85
+[Debug] [2025-11-21 16:40:17] The value of Progress is 90
+[Debug] [2025-11-21 16:40:18] The value of Progress is 95
+[Debug] [2025-11-21 16:40:18] The value of Progress is 100
+[Debug] [2025-11-21 16:40:18] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:40:18] End to send programming cmd.
+[Debug] [2025-11-21 16:40:18] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:40:18] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-21 16:40:45] Begin to send programming cmd...
+[Debug] [2025-11-21 16:40:45] Send RPC:22
+[Debug] [2025-11-21 16:40:45] Begin to send program data.
+[Debug] [2025-11-21 16:40:45] End to send program data.
+[Debug] [2025-11-21 16:40:45] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:40:45] The value of Progress is 6
+[Debug] [2025-11-21 16:40:46] The value of Progress is 10
+[Debug] [2025-11-21 16:40:46] The value of Progress is 15
+[Debug] [2025-11-21 16:40:47] The value of Progress is 20
+[Debug] [2025-11-21 16:40:47] The value of Progress is 25
+[Debug] [2025-11-21 16:40:48] The value of Progress is 30
+[Debug] [2025-11-21 16:40:48] The value of Progress is 35
+[Debug] [2025-11-21 16:40:49] The value of Progress is 40
+[Debug] [2025-11-21 16:40:49] The value of Progress is 45
+[Debug] [2025-11-21 16:40:50] The value of Progress is 50
+[Debug] [2025-11-21 16:40:50] The value of Progress is 55
+[Debug] [2025-11-21 16:40:51] The value of Progress is 60
+[Debug] [2025-11-21 16:40:51] The value of Progress is 65
+[Debug] [2025-11-21 16:40:51] The value of Progress is 70
+[Debug] [2025-11-21 16:40:52] The value of Progress is 75
+[Debug] [2025-11-21 16:40:52] The value of Progress is 80
+[Debug] [2025-11-21 16:40:53] The value of Progress is 85
+[Debug] [2025-11-21 16:40:53] The value of Progress is 90
+[Debug] [2025-11-21 16:40:54] The value of Progress is 95
+[Debug] [2025-11-21 16:40:54] The value of Progress is 100
+[Debug] [2025-11-21 16:40:55] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:40:55] End to send programming cmd.
+[Debug] [2025-11-21 16:40:55] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:40:55] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:41:57] Begin to assign configuration file...
+[Info] [2025-11-21 16:42:05] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Advanced/22_HDMI_picture_gamma/project/generate_bitstream/hdmi_picture_gamma.sbit
+[Debug] [2025-11-21 16:42:05] begin to get device info from CFG file...
+[Debug] [2025-11-21 16:42:05] end to get device info from CFG file...
+[Debug] [2025-11-21 16:42:05] Begin to update graphic item and tree item ...
+[Debug] [2025-11-21 16:42:05] End to update graphic item and tree item ...
+[Debug] [2025-11-21 16:42:05] End to assign configuration file...
+[Debug] [2025-11-21 16:42:18] Begin to send programming cmd...
+[Debug] [2025-11-21 16:42:18] Send RPC:23
+[Debug] [2025-11-21 16:42:18] Begin to send program data.
+[Debug] [2025-11-21 16:42:18] End to send program data.
+[Debug] [2025-11-21 16:42:18] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:42:19] The value of Progress is 6
+[Debug] [2025-11-21 16:42:19] The value of Progress is 10
+[Debug] [2025-11-21 16:42:20] The value of Progress is 15
+[Debug] [2025-11-21 16:42:20] The value of Progress is 20
+[Debug] [2025-11-21 16:42:21] The value of Progress is 25
+[Debug] [2025-11-21 16:42:21] The value of Progress is 30
+[Debug] [2025-11-21 16:42:22] The value of Progress is 35
+[Debug] [2025-11-21 16:42:22] The value of Progress is 40
+[Debug] [2025-11-21 16:42:23] The value of Progress is 45
+[Debug] [2025-11-21 16:42:23] The value of Progress is 50
+[Debug] [2025-11-21 16:42:24] The value of Progress is 55
+[Debug] [2025-11-21 16:42:24] The value of Progress is 60
+[Debug] [2025-11-21 16:42:25] The value of Progress is 65
+[Debug] [2025-11-21 16:42:25] The value of Progress is 70
+[Debug] [2025-11-21 16:42:26] The value of Progress is 75
+[Debug] [2025-11-21 16:42:26] The value of Progress is 80
+[Debug] [2025-11-21 16:42:27] The value of Progress is 85
+[Debug] [2025-11-21 16:42:27] The value of Progress is 90
+[Debug] [2025-11-21 16:42:28] The value of Progress is 95
+[Debug] [2025-11-21 16:42:28] The value of Progress is 100
+[Debug] [2025-11-21 16:42:28] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:42:28] End to send programming cmd.
+[Debug] [2025-11-21 16:42:28] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:42:28] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:42:48] Begin to send programming cmd...
+[Debug] [2025-11-21 16:42:48] Send RPC:24
+[Debug] [2025-11-21 16:42:48] Begin to send program data.
+[Debug] [2025-11-21 16:42:48] End to send program data.
+[Debug] [2025-11-21 16:42:48] Send cmd [Program:20002] OK
+[Debug] [2025-11-21 16:42:49] The value of Progress is 6
+[Debug] [2025-11-21 16:42:50] The value of Progress is 10
+[Debug] [2025-11-21 16:42:50] The value of Progress is 15
+[Debug] [2025-11-21 16:42:51] The value of Progress is 20
+[Debug] [2025-11-21 16:42:51] The value of Progress is 25
+[Debug] [2025-11-21 16:42:51] The value of Progress is 30
+[Debug] [2025-11-21 16:42:52] The value of Progress is 35
+[Debug] [2025-11-21 16:42:52] The value of Progress is 40
+[Debug] [2025-11-21 16:42:53] The value of Progress is 45
+[Debug] [2025-11-21 16:42:53] The value of Progress is 50
+[Debug] [2025-11-21 16:42:54] The value of Progress is 55
+[Debug] [2025-11-21 16:42:54] The value of Progress is 60
+[Debug] [2025-11-21 16:42:55] The value of Progress is 65
+[Debug] [2025-11-21 16:42:55] The value of Progress is 70
+[Debug] [2025-11-21 16:42:56] The value of Progress is 75
+[Debug] [2025-11-21 16:42:56] The value of Progress is 80
+[Debug] [2025-11-21 16:42:57] The value of Progress is 85
+[Debug] [2025-11-21 16:42:57] The value of Progress is 90
+[Debug] [2025-11-21 16:42:58] The value of Progress is 95
+[Debug] [2025-11-21 16:42:58] The value of Progress is 100
+[Debug] [2025-11-21 16:42:58] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-21 16:42:58] End to send programming cmd.
+[Debug] [2025-11-21 16:42:58] Log::Print : The done bit is 1
+[Debug] [2025-11-21 16:42:58] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Info] [2025-11-21 16:44:44] /***************************End Configration***************************/

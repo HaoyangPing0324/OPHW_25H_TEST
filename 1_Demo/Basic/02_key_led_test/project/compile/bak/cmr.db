@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/btn_deb_fix.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_ctl.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/led_rgb.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:3s</data>
+            <data>136</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>Unknown</data>
+            <data>31</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/btn_deb_fix.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/btn_deb_fix.v(line number: 24)] Analyzing module btn_deb_fix (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_ctl.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_ctl.v(line number: 24)] Analyzing module key_ctl (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v(line number: 24)] Analyzing module key_led_top (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/led_rgb.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/led_rgb.v(line number: 23)] Analyzing module led (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;key_led_top&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v(line number: 24)] Elaborating module key_led_top</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v(line number: 33)] Elaborating instance key_ctl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_ctl.v(line number: 24)] Elaborating module key_ctl</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_ctl.v(line number: 36)] Elaborating instance u_btn_deb</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/btn_deb_fix.v(line number: 24)] Elaborating module btn_deb_fix</data>
+        </row>
+        <row>
+            <data message="4">Module instance {key_led_top/key_ctl/u_btn_deb} parameter value:
+    BTN_WIDTH = 4'b0001
+    BTN_DELAY = 20'b01111111111111111111</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/key_led_rgb_top.v(line number: 40)] Elaborating instance u_led</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/design/led_rgb.v(line number: 23)] Elaborating module led</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PG2L25H-6MBG325</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>key_led_top</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/02_key_led_test/project	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/asyn_rst_syn.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/pattern_vg.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/sync_vg.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_0/pll_0.idf</data>
+            <data>IP</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_1/pll_1.idf</data>
+            <data>IP</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:3s</data>
+            <data>137</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>Unknown</data>
+            <data>31</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/asyn_rst_syn.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/asyn_rst_syn.v(line number: 7)] Analyzing module asyn_rst_syn (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v(line number: 21)] Analyzing module dvi_encoder (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 7)] Analyzing module dvi_transmitter_top (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 24)] Analyzing module hdmi_test (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/pattern_vg.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/pattern_vg.v(line number: 23)] Analyzing module pattern_vg (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 9)] Analyzing module serializer_10_to_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/sync_vg.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/sync_vg.v(line number: 35)] Analyzing module sync_vg (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_0/pll_0.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_0/pll_0.v(line number: 18)] Analyzing module pll_0 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_1/pll_1.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_1/pll_1.v(line number: 18)] Analyzing module pll_1 (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;hdmi_test&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 24)] Elaborating module hdmi_test</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test} parameter value:
+    X_WIDTH = 4'b1100
+    Y_WIDTH = 4'b1100
+    V_TOTAL = 12'b010001100101
+    V_FP = 12'b000000000100
+    V_BP = 12'b000000100100
+    V_SYNC = 12'b000000000101
+    V_ACT = 12'b010000111000
+    H_TOTAL = 12'b100010011000
+    H_FP = 12'b000001011000
+    H_BP = 12'b000010010100
+    H_SYNC = 12'b000000101100
+    H_ACT = 12'b011110000000
+    HV_OFFSET = 12'b000000000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 72)] Elaborating instance u_pll_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_0/pll_0.v(line number: 18)] Elaborating module pll_0</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_0/pll_0.v(line number: 302)] Elaborating instance u_gpll</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 79)] Elaborating instance u_pll_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_1/pll_1.v(line number: 18)] Elaborating module pll_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/ipcore/pll_1/pll_1.v(line number: 300)] Elaborating instance u_gpll</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 116)] Elaborating instance sync_vg</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/sync_vg.v(line number: 35)] Elaborating module sync_vg</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test/sync_vg} parameter value:
+    X_BITS = 4'b1100
+    Y_BITS = 4'b1100
+    V_TOTAL = 12'b010001100101
+    V_FP = 12'b000000000100
+    V_BP = 12'b000000100100
+    V_SYNC = 12'b000000000101
+    V_ACT = 12'b010000111000
+    H_TOTAL = 12'b100010011000
+    H_FP = 12'b000001011000
+    H_BP = 12'b000010010100
+    H_SYNC = 12'b000000101100
+    H_ACT = 12'b011110000000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 134)] Elaborating instance pattern_vg</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/pattern_vg.v(line number: 23)] Elaborating module pattern_vg</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test/pattern_vg} parameter value:
+    COCLOR_DEPP = 32'b00000000000000000000000000001000
+    X_BITS = 4'b1100
+    Y_BITS = 4'b1100
+    H_ACT = 12'b011110000000
+    V_ACT = 12'b010000111000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/hdmi_test.v(line number: 151)] Elaborating instance u_dvi_transmitter</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 7)] Elaborating module dvi_transmitter_top</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 39)] Elaborating instance reset_syn</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/asyn_rst_syn.v(line number: 7)] Elaborating module asyn_rst_syn</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 47)] Elaborating instance encoder_b</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v(line number: 21)] Elaborating module dvi_encoder</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test/u_dvi_transmitter/encoder_b} parameter value:
+    CTRLTOKEN0 = 10'b1101010100
+    CTRLTOKEN1 = 10'b0010101011
+    CTRLTOKEN2 = 10'b0101010100
+    CTRLTOKEN3 = 10'b1010101011</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 58)] Elaborating instance encoder_g</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v(line number: 21)] Elaborating module dvi_encoder</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test/u_dvi_transmitter/encoder_g} parameter value:
+    CTRLTOKEN0 = 10'b1101010100
+    CTRLTOKEN1 = 10'b0010101011
+    CTRLTOKEN2 = 10'b0101010100
+    CTRLTOKEN3 = 10'b1010101011</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 69)] Elaborating instance encoder_r</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_encoder.v(line number: 21)] Elaborating module dvi_encoder</data>
+        </row>
+        <row>
+            <data message="4">Module instance {hdmi_test/u_dvi_transmitter/encoder_r} parameter value:
+    CTRLTOKEN0 = 10'b1101010100
+    CTRLTOKEN1 = 10'b0010101011
+    CTRLTOKEN2 = 10'b0101010100
+    CTRLTOKEN3 = 10'b1010101011</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 81)] Elaborating instance serializer_b</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 9)] Elaborating module serializer_10_to_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 42)] Elaborating instance GTP_OSERDES_E2_data_master</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 19)] Width mismatch between port RST and signal bound to it for instantiated module GTP_OSERDES_E2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 87)] Elaborating instance GTP_OSERDES_E2_data_slave</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 64)] Width mismatch between port RST and signal bound to it for instantiated module GTP_OSERDES_E2</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 109)] Elaborating instance GTP_OUTBUFDS_data_lane</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 90)] Elaborating instance serializer_g</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 9)] Elaborating module serializer_10_to_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 99)] Elaborating instance serializer_r</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 9)] Elaborating module serializer_10_to_1</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/dvi_transmitter_top.v(line number: 108)] Elaborating instance serializer_clk</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/design/serializer_10_to_1.v(line number: 9)] Elaborating module serializer_10_to_1</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N156_7:0_2 (bmsWIDEMUX).</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PG2L25H-6MBG325</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>hdmi_test</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

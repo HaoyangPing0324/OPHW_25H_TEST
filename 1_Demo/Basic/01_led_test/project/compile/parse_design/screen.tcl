@@ -1,0 +1,1 @@
+.rtl_screen -top_module {led_test} -include_path {<E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/project>} -design_files {<E:/User/Files/project_self/OPHW_25H/workspace/01_led_test/design/01_led_test.v|work>}

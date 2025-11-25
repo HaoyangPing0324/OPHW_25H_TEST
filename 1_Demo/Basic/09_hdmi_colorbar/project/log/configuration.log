@@ -1,0 +1,918 @@
+[Info] [2025-11-14 12:31:11] /***************************Start Configuration***************************/
+[Info] [2025-11-14 12:31:11] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 12:31:11] Version: 146967
+[Info] [2025-11-14 12:31:12] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:31:12] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:31:14] /***************************End Configration***************************/
+[Info] [2025-11-14 12:38:50] /***************************Start Configuration***************************/
+[Info] [2025-11-14 12:38:50] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 12:38:50] Version: 146967
+[Info] [2025-11-14 12:38:51] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:38:51] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:38:52] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2025-11-14 12:38:52] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 12:38:52] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 12:38:52] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 12:38:52] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 12:38:52] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 12:38:52] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 12:38:53] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 12:38:53] Finish.
+[Info] [2025-11-14 12:38:53] Connect server succeeded
+[Debug] [2025-11-14 12:38:53] Send RPC:1
+[Debug] [2025-11-14 12:38:53] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 12:38:53] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 12:38:53] Send RPC:2
+[Debug] [2025-11-14 12:38:53] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 12:38:53] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 12:38:53] Send RPC:3
+[Debug] [2025-11-14 12:38:53] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 12:38:53] End to send initialize chain cmd.
+[Debug] [2025-11-14 12:38:53] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 12:38:53] Log::Print : COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 12:38:55] COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Debug] [2025-11-14 12:38:55] Log::Print : The cable List : 
+
+[Debug] [2025-11-14 12:38:55] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Error] [2025-11-14 12:38:55] fail to exec Open config cable cmd...
+[Error] [2025-11-14 12:38:55] MsgOut: JtagServer-0306: No devices detected while scanning the JTAG chain, failed detecting JTAG device chain.
+[Warn] [2025-11-14 12:38:55] MsgOut: Please check the device power, cable connection situation and whether put the chip in the right way or not.
+   If these do not work, try to restart the software.
+[Error] [2025-11-14 12:38:55] MsgOut: Configuration-0008: The command 'Open config cable' execute fail.
+[Info] [2025-11-14 12:39:06] /***************************End Configration***************************/
+[Info] [2025-11-14 12:39:10] /***************************Start Configuration***************************/
+[Info] [2025-11-14 12:39:10] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 12:39:10] Version: 146967
+[Info] [2025-11-14 12:39:11] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:39:11] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Debug] [2025-11-14 12:39:14] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 12:39:14] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 12:39:14] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 12:39:14] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 12:39:14] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 12:39:14] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 12:39:14] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 12:39:14] Finish.
+[Info] [2025-11-14 12:39:14] Connect server succeeded
+[Debug] [2025-11-14 12:39:14] Send RPC:1
+[Debug] [2025-11-14 12:39:14] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 12:39:14] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 12:39:15] Send RPC:2
+[Debug] [2025-11-14 12:39:15] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 12:39:15] COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 12:39:15] Log::Print : COMMAND[check version information] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 12:39:16] COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Debug] [2025-11-14 12:39:16] Log::Print : The cable List : 
+
+[Debug] [2025-11-14 12:39:16] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Info] [2025-11-14 12:39:43] Disconnect from Server: 127.0.0.1  Port: 65420
+[Warn] [2025-11-14 12:39:43] Server is disconnected
+[Debug] [2025-11-14 12:39:43] end to connect server
+[Debug] [2025-11-14 12:39:43] Log::Print : Server is disconnect
+[Debug] [2025-11-14 12:39:44] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 12:39:44] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 12:39:44] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 12:39:44] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 12:39:44] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 12:39:44] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 12:39:44] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 12:39:44] Finish.
+[Info] [2025-11-14 12:39:44] Connect server succeeded
+[Debug] [2025-11-14 12:39:44] Send RPC:3
+[Debug] [2025-11-14 12:39:44] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 12:39:44] Send RPC:4
+[Debug] [2025-11-14 12:39:44] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 12:39:44] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-11-14 12:39:44] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 12:39:44] Log::Print : COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2025-11-14 12:39:45] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Debug] [2025-11-14 12:39:45] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 12:39:45] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Debug] [2025-11-14 12:39:50] Send RPC:5
+[Debug] [2025-11-14 12:39:50] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 12:39:50] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:39:50] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:39:51] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 12:39:51] Send RPC:6
+[Debug] [2025-11-14 12:39:51] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 12:39:51] End to send initialize chain cmd.
+[Debug] [2025-11-14 12:39:52] begin the exec of open cable cmd...
+[Debug] [2025-11-14 12:39:52] Begin to deal with chain from server...
+[Debug] [2025-11-14 12:39:52] Begin to set user chain...
+[Debug] [2025-11-14 12:39:52] End to set user chain.
+[Debug] [2025-11-14 12:39:52] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:52] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:52] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 12:39:52] Log::Print : PG2L25H
+[Debug] [2025-11-14 12:39:52] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 12:39:54] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 12:39:54] begin to get device info from CFG file...
+[Debug] [2025-11-14 12:39:54] end to get device info from CFG file...
+[Debug] [2025-11-14 12:39:54] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:54] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:54] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:54] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:39:54] End to deal wiht chain from server.
+[Debug] [2025-11-14 12:39:54] end the exec of open cable cmd.
+[Debug] [2025-11-14 12:39:54] COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[Debug] [2025-11-14 12:39:54] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.7 secs.
+[Debug] [2025-11-14 12:39:55] Begin to send programming cmd...
+[Debug] [2025-11-14 12:39:55] Send RPC:7
+[Debug] [2025-11-14 12:39:55] Begin to send program data.
+[Debug] [2025-11-14 12:39:55] End to send program data.
+[Debug] [2025-11-14 12:39:55] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 12:39:56] The value of Progress is 6
+[Debug] [2025-11-14 12:39:56] The value of Progress is 10
+[Debug] [2025-11-14 12:39:57] The value of Progress is 15
+[Debug] [2025-11-14 12:39:57] The value of Progress is 20
+[Debug] [2025-11-14 12:39:58] The value of Progress is 25
+[Debug] [2025-11-14 12:39:58] The value of Progress is 30
+[Debug] [2025-11-14 12:39:59] The value of Progress is 35
+[Debug] [2025-11-14 12:39:59] The value of Progress is 40
+[Debug] [2025-11-14 12:40:00] The value of Progress is 45
+[Debug] [2025-11-14 12:40:00] The value of Progress is 50
+[Debug] [2025-11-14 12:40:01] The value of Progress is 55
+[Debug] [2025-11-14 12:40:01] The value of Progress is 60
+[Debug] [2025-11-14 12:40:02] The value of Progress is 65
+[Debug] [2025-11-14 12:40:02] The value of Progress is 70
+[Debug] [2025-11-14 12:40:03] The value of Progress is 75
+[Debug] [2025-11-14 12:40:03] The value of Progress is 80
+[Debug] [2025-11-14 12:40:04] The value of Progress is 85
+[Debug] [2025-11-14 12:40:04] The value of Progress is 90
+[Debug] [2025-11-14 12:40:04] The value of Progress is 95
+[Debug] [2025-11-14 12:40:05] The value of Progress is 100
+[Debug] [2025-11-14 12:40:05] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 12:40:05] End to send programming cmd.
+[Debug] [2025-11-14 12:40:05] Log::Print : The done bit is 1
+[Debug] [2025-11-14 12:40:05] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 12:41:12] Begin to send programming cmd...
+[Debug] [2025-11-14 12:41:12] Send RPC:8
+[Debug] [2025-11-14 12:41:12] Begin to send program data.
+[Debug] [2025-11-14 12:41:12] End to send program data.
+[Debug] [2025-11-14 12:41:12] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 12:41:13] The value of Progress is 6
+[Debug] [2025-11-14 12:41:13] The value of Progress is 10
+[Debug] [2025-11-14 12:41:14] The value of Progress is 15
+[Debug] [2025-11-14 12:41:14] The value of Progress is 20
+[Debug] [2025-11-14 12:41:15] The value of Progress is 25
+[Debug] [2025-11-14 12:41:15] The value of Progress is 30
+[Debug] [2025-11-14 12:41:16] The value of Progress is 35
+[Debug] [2025-11-14 12:41:16] The value of Progress is 40
+[Debug] [2025-11-14 12:41:17] The value of Progress is 45
+[Debug] [2025-11-14 12:41:17] The value of Progress is 50
+[Debug] [2025-11-14 12:41:18] The value of Progress is 55
+[Debug] [2025-11-14 12:41:18] The value of Progress is 60
+[Debug] [2025-11-14 12:41:19] The value of Progress is 65
+[Debug] [2025-11-14 12:41:19] The value of Progress is 70
+[Debug] [2025-11-14 12:41:20] The value of Progress is 75
+[Debug] [2025-11-14 12:41:20] The value of Progress is 80
+[Debug] [2025-11-14 12:41:21] The value of Progress is 85
+[Debug] [2025-11-14 12:41:21] The value of Progress is 90
+[Debug] [2025-11-14 12:41:22] The value of Progress is 95
+[Debug] [2025-11-14 12:41:22] The value of Progress is 100
+[Debug] [2025-11-14 12:41:22] COMMAND[Program] execute successfully, takes 9.8 secs.
+[Debug] [2025-11-14 12:41:22] End to send programming cmd.
+[Debug] [2025-11-14 12:41:22] Log::Print : The done bit is 1
+[Debug] [2025-11-14 12:41:22] Log::Print : COMMAND[Program] execute successfully, takes 9.8 secs.
+[Info] [2025-11-14 12:44:47] /***************************End Configration***************************/
+[Info] [2025-11-14 12:44:49] /***************************Start Configuration***************************/
+[Info] [2025-11-14 12:44:49] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 12:44:49] Version: 146967
+[Info] [2025-11-14 12:44:50] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:44:50] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Debug] [2025-11-14 12:44:53] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 12:44:53] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 12:44:53] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 12:44:53] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 12:44:53] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 12:44:54] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 12:44:54] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 12:44:54] Finish.
+[Info] [2025-11-14 12:44:54] Connect server succeeded
+[Debug] [2025-11-14 12:44:54] Send RPC:1
+[Debug] [2025-11-14 12:44:54] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 12:44:54] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 12:44:54] Send RPC:2
+[Debug] [2025-11-14 12:44:54] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 12:44:54] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 12:44:54] Log::Print : COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 12:44:55] COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-14 12:44:55] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 12:44:55] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.0 secs.
+[Debug] [2025-11-14 12:44:59] Send RPC:3
+[Debug] [2025-11-14 12:44:59] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 12:44:59] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:44:59] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:45:00] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 12:45:00] Send RPC:4
+[Debug] [2025-11-14 12:45:00] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 12:45:00] End to send initialize chain cmd.
+[Debug] [2025-11-14 12:45:00] begin the exec of open cable cmd...
+[Debug] [2025-11-14 12:45:00] Begin to deal with chain from server...
+[Debug] [2025-11-14 12:45:00] Begin to set user chain...
+[Debug] [2025-11-14 12:45:00] End to set user chain.
+[Debug] [2025-11-14 12:45:00] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:00] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:00] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 12:45:00] Log::Print : PG2L25H
+[Debug] [2025-11-14 12:45:00] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 12:45:04] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 12:45:04] begin to get device info from CFG file...
+[Debug] [2025-11-14 12:45:04] end to get device info from CFG file...
+[Debug] [2025-11-14 12:45:04] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:04] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:04] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:04] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:45:04] End to deal wiht chain from server.
+[Debug] [2025-11-14 12:45:04] end the exec of open cable cmd.
+[Debug] [2025-11-14 12:45:04] COMMAND[Open config cable] execute successfully, takes 3.7 secs.
+[Debug] [2025-11-14 12:45:04] Log::Print : COMMAND[Open config cable] execute successfully, takes 3.7 secs.
+[Debug] [2025-11-14 12:45:05] Begin to send programming cmd...
+[Debug] [2025-11-14 12:45:05] Send RPC:5
+[Debug] [2025-11-14 12:45:05] Begin to send program data.
+[Debug] [2025-11-14 12:45:05] End to send program data.
+[Debug] [2025-11-14 12:45:05] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 12:45:05] The value of Progress is 6
+[Debug] [2025-11-14 12:45:06] The value of Progress is 10
+[Debug] [2025-11-14 12:45:06] The value of Progress is 15
+[Debug] [2025-11-14 12:45:07] The value of Progress is 20
+[Debug] [2025-11-14 12:45:07] The value of Progress is 25
+[Debug] [2025-11-14 12:45:08] The value of Progress is 30
+[Debug] [2025-11-14 12:45:08] The value of Progress is 35
+[Debug] [2025-11-14 12:45:09] The value of Progress is 40
+[Debug] [2025-11-14 12:45:09] The value of Progress is 45
+[Debug] [2025-11-14 12:45:10] The value of Progress is 50
+[Debug] [2025-11-14 12:45:10] The value of Progress is 55
+[Debug] [2025-11-14 12:45:11] The value of Progress is 60
+[Debug] [2025-11-14 12:45:11] The value of Progress is 65
+[Debug] [2025-11-14 12:45:12] The value of Progress is 70
+[Debug] [2025-11-14 12:45:12] The value of Progress is 75
+[Debug] [2025-11-14 12:45:13] The value of Progress is 80
+[Debug] [2025-11-14 12:45:13] The value of Progress is 85
+[Debug] [2025-11-14 12:45:14] The value of Progress is 90
+[Debug] [2025-11-14 12:45:14] The value of Progress is 95
+[Debug] [2025-11-14 12:45:14] The value of Progress is 100
+[Debug] [2025-11-14 12:45:15] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-14 12:45:15] End to send programming cmd.
+[Debug] [2025-11-14 12:45:15] Log::Print : The done bit is 1
+[Debug] [2025-11-14 12:45:15] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Info] [2025-11-14 12:45:54] /***************************End Configration***************************/
+[Info] [2025-11-14 12:48:59] /***************************Start Configuration***************************/
+[Info] [2025-11-14 12:48:59] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 12:48:59] Version: 146967
+[Info] [2025-11-14 12:49:00] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 12:49:00] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Debug] [2025-11-14 12:49:04] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 12:49:04] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 12:49:04] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 12:49:04] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 12:49:04] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 12:49:04] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 12:49:04] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 12:49:04] Finish.
+[Info] [2025-11-14 12:49:04] Connect server succeeded
+[Debug] [2025-11-14 12:49:04] Send RPC:1
+[Debug] [2025-11-14 12:49:04] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 12:49:04] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 12:49:05] Send RPC:2
+[Debug] [2025-11-14 12:49:05] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 12:49:05] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 12:49:05] Log::Print : COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 12:49:05] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 12:49:05] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 12:49:05] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 12:49:08] Send RPC:3
+[Debug] [2025-11-14 12:49:08] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 12:49:09] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:49:09] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 12:49:11] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 12:49:11] Send RPC:4
+[Debug] [2025-11-14 12:49:11] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 12:49:11] End to send initialize chain cmd.
+[Debug] [2025-11-14 12:49:12] begin the exec of open cable cmd...
+[Debug] [2025-11-14 12:49:12] Begin to deal with chain from server...
+[Debug] [2025-11-14 12:49:12] Begin to set user chain...
+[Debug] [2025-11-14 12:49:12] End to set user chain.
+[Debug] [2025-11-14 12:49:12] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:12] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:12] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 12:49:12] Log::Print : PG2L25H
+[Debug] [2025-11-14 12:49:12] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 12:49:13] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 12:49:13] begin to get device info from CFG file...
+[Debug] [2025-11-14 12:49:13] end to get device info from CFG file...
+[Debug] [2025-11-14 12:49:13] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:13] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:13] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:13] End to update graphic item and tree item ...
+[Debug] [2025-11-14 12:49:13] End to deal wiht chain from server.
+[Debug] [2025-11-14 12:49:13] end the exec of open cable cmd.
+[Debug] [2025-11-14 12:49:13] COMMAND[Open config cable] execute successfully, takes 2.0 secs.
+[Debug] [2025-11-14 12:49:14] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.0 secs.
+[Debug] [2025-11-14 12:49:15] Begin to send programming cmd...
+[Debug] [2025-11-14 12:49:15] Send RPC:5
+[Debug] [2025-11-14 12:49:15] Begin to send program data.
+[Debug] [2025-11-14 12:49:15] End to send program data.
+[Debug] [2025-11-14 12:49:15] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 12:49:16] The value of Progress is 6
+[Debug] [2025-11-14 12:49:16] The value of Progress is 10
+[Debug] [2025-11-14 12:49:16] The value of Progress is 15
+[Debug] [2025-11-14 12:49:17] The value of Progress is 20
+[Debug] [2025-11-14 12:49:17] The value of Progress is 25
+[Debug] [2025-11-14 12:49:18] The value of Progress is 30
+[Debug] [2025-11-14 12:49:18] The value of Progress is 35
+[Debug] [2025-11-14 12:49:19] The value of Progress is 40
+[Debug] [2025-11-14 12:49:19] The value of Progress is 45
+[Debug] [2025-11-14 12:49:20] The value of Progress is 50
+[Debug] [2025-11-14 12:49:20] The value of Progress is 55
+[Debug] [2025-11-14 12:49:21] The value of Progress is 60
+[Debug] [2025-11-14 12:49:21] The value of Progress is 65
+[Debug] [2025-11-14 12:49:22] The value of Progress is 70
+[Debug] [2025-11-14 12:49:22] The value of Progress is 75
+[Debug] [2025-11-14 12:49:23] The value of Progress is 80
+[Debug] [2025-11-14 12:49:23] The value of Progress is 85
+[Debug] [2025-11-14 12:49:24] The value of Progress is 90
+[Debug] [2025-11-14 12:49:24] The value of Progress is 95
+[Debug] [2025-11-14 12:49:25] The value of Progress is 100
+[Debug] [2025-11-14 12:49:25] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-14 12:49:25] End to send programming cmd.
+[Debug] [2025-11-14 12:49:25] Log::Print : The done bit is 1
+[Debug] [2025-11-14 12:49:25] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Info] [2025-11-14 12:49:47] /***************************End Configration***************************/
+[Info] [2025-11-14 13:02:34] /***************************Start Configuration***************************/
+[Info] [2025-11-14 13:02:34] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 13:02:34] Version: 146967
+[Info] [2025-11-14 13:02:35] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 13:02:35] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Debug] [2025-11-14 13:02:39] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 13:02:39] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 13:02:39] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 13:02:39] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 13:02:39] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 13:02:39] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 13:02:39] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 13:02:39] Finish.
+[Info] [2025-11-14 13:02:39] Connect server succeeded
+[Debug] [2025-11-14 13:02:39] Send RPC:1
+[Debug] [2025-11-14 13:02:39] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 13:02:39] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 13:02:39] Send RPC:2
+[Debug] [2025-11-14 13:02:39] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 13:02:39] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 13:02:39] Log::Print : COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 13:02:40] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 13:02:40] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 13:02:40] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 13:02:45] Send RPC:3
+[Debug] [2025-11-14 13:02:45] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 13:02:45] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 13:02:45] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 13:02:47] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 13:02:47] Send RPC:4
+[Debug] [2025-11-14 13:02:47] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 13:02:47] End to send initialize chain cmd.
+[Debug] [2025-11-14 13:02:47] begin the exec of open cable cmd...
+[Debug] [2025-11-14 13:02:47] Begin to deal with chain from server...
+[Debug] [2025-11-14 13:02:47] Begin to set user chain...
+[Debug] [2025-11-14 13:02:47] End to set user chain.
+[Debug] [2025-11-14 13:02:47] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:47] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:47] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 13:02:47] Log::Print : PG2L25H
+[Debug] [2025-11-14 13:02:47] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 13:02:49] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 13:02:49] begin to get device info from CFG file...
+[Debug] [2025-11-14 13:02:49] end to get device info from CFG file...
+[Debug] [2025-11-14 13:02:49] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:49] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:49] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:49] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:02:49] End to deal wiht chain from server.
+[Debug] [2025-11-14 13:02:49] end the exec of open cable cmd.
+[Debug] [2025-11-14 13:02:49] COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2025-11-14 13:02:49] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.3 secs.
+[Debug] [2025-11-14 13:02:50] Begin to send programming cmd...
+[Debug] [2025-11-14 13:02:50] Send RPC:5
+[Debug] [2025-11-14 13:02:50] Begin to send program data.
+[Debug] [2025-11-14 13:02:50] End to send program data.
+[Debug] [2025-11-14 13:02:50] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 13:02:51] The value of Progress is 6
+[Debug] [2025-11-14 13:02:52] The value of Progress is 10
+[Debug] [2025-11-14 13:02:52] The value of Progress is 15
+[Debug] [2025-11-14 13:02:52] The value of Progress is 20
+[Debug] [2025-11-14 13:02:53] The value of Progress is 25
+[Debug] [2025-11-14 13:02:53] The value of Progress is 30
+[Debug] [2025-11-14 13:02:54] The value of Progress is 35
+[Debug] [2025-11-14 13:02:54] The value of Progress is 40
+[Debug] [2025-11-14 13:02:55] The value of Progress is 45
+[Debug] [2025-11-14 13:02:55] The value of Progress is 50
+[Debug] [2025-11-14 13:02:56] The value of Progress is 55
+[Debug] [2025-11-14 13:02:56] The value of Progress is 60
+[Debug] [2025-11-14 13:02:57] The value of Progress is 65
+[Debug] [2025-11-14 13:02:57] The value of Progress is 70
+[Debug] [2025-11-14 13:02:58] The value of Progress is 75
+[Debug] [2025-11-14 13:02:58] The value of Progress is 80
+[Debug] [2025-11-14 13:02:59] The value of Progress is 85
+[Debug] [2025-11-14 13:02:59] The value of Progress is 90
+[Debug] [2025-11-14 13:03:00] The value of Progress is 95
+[Debug] [2025-11-14 13:03:00] The value of Progress is 100
+[Debug] [2025-11-14 13:03:00] COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-14 13:03:00] End to send programming cmd.
+[Debug] [2025-11-14 13:03:00] Log::Print : The done bit is 1
+[Debug] [2025-11-14 13:03:00] Log::Print : COMMAND[Program] execute successfully, takes 10.1 secs.
+[Debug] [2025-11-14 13:03:02] Begin to send programming cmd...
+[Debug] [2025-11-14 13:03:02] Send RPC:6
+[Debug] [2025-11-14 13:03:02] Begin to send program data.
+[Debug] [2025-11-14 13:03:02] End to send program data.
+[Debug] [2025-11-14 13:03:02] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 13:03:03] The value of Progress is 6
+[Debug] [2025-11-14 13:03:03] The value of Progress is 10
+[Debug] [2025-11-14 13:03:04] The value of Progress is 15
+[Debug] [2025-11-14 13:03:04] The value of Progress is 20
+[Debug] [2025-11-14 13:03:05] The value of Progress is 25
+[Debug] [2025-11-14 13:03:05] The value of Progress is 30
+[Debug] [2025-11-14 13:03:06] The value of Progress is 35
+[Debug] [2025-11-14 13:03:06] The value of Progress is 40
+[Debug] [2025-11-14 13:03:07] The value of Progress is 45
+[Debug] [2025-11-14 13:03:07] The value of Progress is 50
+[Debug] [2025-11-14 13:03:08] The value of Progress is 55
+[Debug] [2025-11-14 13:03:08] The value of Progress is 60
+[Debug] [2025-11-14 13:03:09] The value of Progress is 65
+[Debug] [2025-11-14 13:03:09] The value of Progress is 70
+[Debug] [2025-11-14 13:03:10] The value of Progress is 75
+[Debug] [2025-11-14 13:03:10] The value of Progress is 80
+[Debug] [2025-11-14 13:03:11] The value of Progress is 85
+[Debug] [2025-11-14 13:03:11] The value of Progress is 90
+[Debug] [2025-11-14 13:03:11] The value of Progress is 95
+[Debug] [2025-11-14 13:03:12] The value of Progress is 100
+[Debug] [2025-11-14 13:03:12] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 13:03:12] End to send programming cmd.
+[Debug] [2025-11-14 13:03:12] Log::Print : The done bit is 1
+[Debug] [2025-11-14 13:03:12] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Info] [2025-11-14 13:03:29] /***************************End Configration***************************/
+[Info] [2025-11-14 13:04:03] /***************************Start Configuration***************************/
+[Info] [2025-11-14 13:04:03] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 13:04:03] Version: 146967
+[Info] [2025-11-14 13:04:04] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Info] [2025-11-14 13:04:04] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project
+[Debug] [2025-11-14 13:04:06] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 13:04:06] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 13:04:06] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 13:04:06] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 13:04:06] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 13:04:06] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 13:04:07] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 13:04:07] Finish.
+[Info] [2025-11-14 13:04:07] Connect server succeeded
+[Debug] [2025-11-14 13:04:07] Send RPC:1
+[Debug] [2025-11-14 13:04:07] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 13:04:07] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 13:04:07] Send RPC:2
+[Debug] [2025-11-14 13:04:07] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 13:04:07] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 13:04:07] Log::Print : COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2025-11-14 13:04:08] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 13:04:08] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 13:04:08] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2025-11-14 13:04:11] Send RPC:3
+[Debug] [2025-11-14 13:04:11] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 13:04:11] COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 13:04:11] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.5 secs.
+[Debug] [2025-11-14 13:04:12] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 13:04:12] Send RPC:4
+[Debug] [2025-11-14 13:04:12] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 13:04:12] End to send initialize chain cmd.
+[Debug] [2025-11-14 13:04:13] begin the exec of open cable cmd...
+[Debug] [2025-11-14 13:04:13] Begin to deal with chain from server...
+[Debug] [2025-11-14 13:04:13] Begin to set user chain...
+[Debug] [2025-11-14 13:04:13] End to set user chain.
+[Debug] [2025-11-14 13:04:13] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:13] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:13] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 13:04:13] Log::Print : PG2L25H
+[Debug] [2025-11-14 13:04:13] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 13:04:15] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 13:04:15] begin to get device info from CFG file...
+[Debug] [2025-11-14 13:04:15] end to get device info from CFG file...
+[Debug] [2025-11-14 13:04:15] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:15] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:15] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:15] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:04:15] End to deal wiht chain from server.
+[Debug] [2025-11-14 13:04:15] end the exec of open cable cmd.
+[Debug] [2025-11-14 13:04:15] COMMAND[Open config cable] execute successfully, takes 2.5 secs.
+[Debug] [2025-11-14 13:04:15] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.5 secs.
+[Debug] [2025-11-14 13:04:16] Begin to send programming cmd...
+[Debug] [2025-11-14 13:04:16] Send RPC:5
+[Debug] [2025-11-14 13:04:16] Begin to send program data.
+[Debug] [2025-11-14 13:04:16] End to send program data.
+[Debug] [2025-11-14 13:04:16] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 13:04:17] The value of Progress is 6
+[Debug] [2025-11-14 13:04:17] The value of Progress is 10
+[Debug] [2025-11-14 13:04:18] The value of Progress is 15
+[Debug] [2025-11-14 13:04:18] The value of Progress is 20
+[Debug] [2025-11-14 13:04:19] The value of Progress is 25
+[Debug] [2025-11-14 13:04:19] The value of Progress is 30
+[Debug] [2025-11-14 13:04:20] The value of Progress is 35
+[Debug] [2025-11-14 13:04:20] The value of Progress is 40
+[Debug] [2025-11-14 13:04:21] The value of Progress is 45
+[Debug] [2025-11-14 13:04:21] The value of Progress is 50
+[Debug] [2025-11-14 13:04:22] The value of Progress is 55
+[Debug] [2025-11-14 13:04:22] The value of Progress is 60
+[Debug] [2025-11-14 13:04:23] The value of Progress is 65
+[Debug] [2025-11-14 13:04:23] The value of Progress is 70
+[Debug] [2025-11-14 13:04:24] The value of Progress is 75
+[Debug] [2025-11-14 13:04:24] The value of Progress is 80
+[Debug] [2025-11-14 13:04:25] The value of Progress is 85
+[Debug] [2025-11-14 13:04:25] The value of Progress is 90
+[Debug] [2025-11-14 13:04:26] The value of Progress is 95
+[Debug] [2025-11-14 13:04:26] The value of Progress is 100
+[Debug] [2025-11-14 13:04:26] COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-14 13:04:26] End to send programming cmd.
+[Debug] [2025-11-14 13:04:26] Log::Print : The done bit is 1
+[Debug] [2025-11-14 13:04:26] Log::Print : COMMAND[Program] execute successfully, takes 9.9 secs.
+[Debug] [2025-11-14 13:04:47] Begin to Converte file.
+[Debug] [2025-11-14 13:05:23] begin to parse sfc file.
+[Debug] [2025-11-14 13:05:23] begin to get device info from CFG file...
+[Debug] [2025-11-14 13:05:23] end to get device info from CFG file...
+[Debug] [2025-11-14 13:05:23] begin to get device info from CFG file...
+[Debug] [2025-11-14 13:05:23] end to get device info from CFG file...
+[Debug] [2025-11-14 13:05:23] end to parse sfc file.
+[Debug] [2025-11-14 13:05:23] Log::Print : The Start Address of bit file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit: 0x0
+[Debug] [2025-11-14 13:05:24] End to Converte file.
+[Debug] [2025-11-14 13:05:33] Begin to send programming cmd...
+[Debug] [2025-11-14 13:05:33] Send RPC:6
+[Debug] [2025-11-14 13:05:33] Begin to send program data.
+[Debug] [2025-11-14 13:05:33] End to send program data.
+[Debug] [2025-11-14 13:05:33] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 13:05:34] The value of Progress is 6
+[Debug] [2025-11-14 13:05:35] The value of Progress is 10
+[Debug] [2025-11-14 13:05:35] The value of Progress is 15
+[Debug] [2025-11-14 13:05:36] The value of Progress is 20
+[Debug] [2025-11-14 13:05:36] The value of Progress is 25
+[Debug] [2025-11-14 13:05:36] The value of Progress is 30
+[Debug] [2025-11-14 13:05:37] The value of Progress is 35
+[Debug] [2025-11-14 13:05:37] The value of Progress is 40
+[Debug] [2025-11-14 13:05:38] The value of Progress is 45
+[Debug] [2025-11-14 13:05:38] The value of Progress is 50
+[Debug] [2025-11-14 13:05:39] The value of Progress is 55
+[Debug] [2025-11-14 13:05:39] The value of Progress is 60
+[Debug] [2025-11-14 13:05:40] The value of Progress is 65
+[Debug] [2025-11-14 13:05:40] The value of Progress is 70
+[Debug] [2025-11-14 13:05:41] The value of Progress is 75
+[Debug] [2025-11-14 13:05:41] The value of Progress is 80
+[Debug] [2025-11-14 13:05:42] The value of Progress is 85
+[Debug] [2025-11-14 13:05:42] The value of Progress is 90
+[Debug] [2025-11-14 13:05:43] The value of Progress is 95
+[Debug] [2025-11-14 13:05:43] The value of Progress is 100
+[Debug] [2025-11-14 13:05:43] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 13:05:43] End to send programming cmd.
+[Debug] [2025-11-14 13:05:43] Log::Print : The done bit is 1
+[Debug] [2025-11-14 13:05:43] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 13:05:55] Begin to send scan outer flash cmd...
+[Debug] [2025-11-14 13:05:55] Send RPC:7
+[Debug] [2025-11-14 13:05:55] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2025-11-14 13:05:55] End to send scan outer flash cmd.
+[Debug] [2025-11-14 13:05:56] begin to exec scan jtag flash cmd...
+[Debug] [2025-11-14 13:05:56] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2025-11-14 13:05:56] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:05:56] End to update graphic item and tree item ...
+[Info] [2025-11-14 13:05:57] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/05_hdmi_colorbar/project/generate_bitstream/hdmi_test.sfc
+[Debug] [2025-11-14 13:05:57] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 13:05:57] end to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 13:05:57] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 13:05:57] End to update graphic item and tree item ...
+[Debug] [2025-11-14 13:05:57] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2025-11-14 13:05:57] end to exec scan jtag flash cmd...
+[Debug] [2025-11-14 13:05:57] COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.2 secs.
+[Debug] [2025-11-14 13:05:57] Log::Print : COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.2 secs.
+[Debug] [2025-11-14 13:06:00] begin to send promgram jtag flash cmd.
+[Debug] [2025-11-14 13:06:00] begin to send jtag flash erase cmd
+[Debug] [2025-11-14 13:06:00] Send RPC:8
+[Debug] [2025-11-14 13:06:00] Begin to send embed flash erase data.
+[Debug] [2025-11-14 13:06:00] Begin to send flash erase data.
+[Debug] [2025-11-14 13:06:00] End to send flash erase data.
+[Debug] [2025-11-14 13:06:00] End to send embed flash erase data.
+[Debug] [2025-11-14 13:06:00] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2025-11-14 13:06:00] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 13:06:00] The value of Progress is 1
+[Debug] [2025-11-14 13:06:01] The value of Progress is 10
+[Debug] [2025-11-14 13:06:02] The value of Progress is 15
+[Debug] [2025-11-14 13:06:02] The value of Progress is 21
+[Debug] [2025-11-14 13:06:03] The value of Progress is 26
+[Debug] [2025-11-14 13:06:03] The value of Progress is 31
+[Debug] [2025-11-14 13:06:03] The value of Progress is 36
+[Debug] [2025-11-14 13:06:04] The value of Progress is 42
+[Debug] [2025-11-14 13:06:04] The value of Progress is 47
+[Debug] [2025-11-14 13:06:05] The value of Progress is 52
+[Debug] [2025-11-14 13:06:05] The value of Progress is 57
+[Debug] [2025-11-14 13:06:06] The value of Progress is 63
+[Debug] [2025-11-14 13:06:06] The value of Progress is 68
+[Debug] [2025-11-14 13:06:06] The value of Progress is 73
+[Debug] [2025-11-14 13:06:07] The value of Progress is 78
+[Debug] [2025-11-14 13:06:07] The value of Progress is 84
+[Debug] [2025-11-14 13:06:08] The value of Progress is 89
+[Debug] [2025-11-14 13:06:08] The value of Progress is 94
+[Debug] [2025-11-14 13:06:08] The value of Progress is 100
+[Debug] [2025-11-14 13:06:08] COMMAND[Erase Outer Flash] execute finish, takes 8.5 secs.
+[Debug] [2025-11-14 13:06:08] end to send jtag flash erase cmd.
+[Debug] [2025-11-14 13:06:08] Send RPC:9
+[Debug] [2025-11-14 13:06:08] Begin to send jtag flash program data.
+[Debug] [2025-11-14 13:06:08] Begin to send flash program data.
+[Debug] [2025-11-14 13:06:08] End to send flash program data.
+[Debug] [2025-11-14 13:06:08] End to send embed flash program data.
+[Debug] [2025-11-14 13:06:08] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2025-11-14 13:06:08] Log::Print : COMMAND[Erase Outer Flash] execute finish, takes 8.5 secs.
+[Debug] [2025-11-14 13:06:08] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 13:06:09] The value of Progress is 1
+[Debug] [2025-11-14 13:06:10] The value of Progress is 6
+[Debug] [2025-11-14 13:06:11] The value of Progress is 10
+[Debug] [2025-11-14 13:06:13] The value of Progress is 15
+[Debug] [2025-11-14 13:06:14] The value of Progress is 20
+[Debug] [2025-11-14 13:06:16] The value of Progress is 25
+[Debug] [2025-11-14 13:06:17] The value of Progress is 30
+[Debug] [2025-11-14 13:06:18] The value of Progress is 35
+[Debug] [2025-11-14 13:06:20] The value of Progress is 40
+[Debug] [2025-11-14 13:06:21] The value of Progress is 45
+[Debug] [2025-11-14 13:06:23] The value of Progress is 50
+[Debug] [2025-11-14 13:06:24] The value of Progress is 55
+[Debug] [2025-11-14 13:06:25] The value of Progress is 60
+[Debug] [2025-11-14 13:06:27] The value of Progress is 65
+[Debug] [2025-11-14 13:06:28] The value of Progress is 70
+[Debug] [2025-11-14 13:06:30] The value of Progress is 75
+[Debug] [2025-11-14 13:06:31] The value of Progress is 80
+[Debug] [2025-11-14 13:06:32] The value of Progress is 85
+[Debug] [2025-11-14 13:06:34] The value of Progress is 90
+[Debug] [2025-11-14 13:06:35] The value of Progress is 95
+[Debug] [2025-11-14 13:06:37] The value of Progress is 100
+[Debug] [2025-11-14 13:06:37] COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 13:06:37] begin to send jtag flash verify cmd
+[Debug] [2025-11-14 13:06:37] Send RPC:10
+[Debug] [2025-11-14 13:06:37] Begin to send embed flash verify data.
+[Debug] [2025-11-14 13:06:37] Begin to send flash verify data.
+[Debug] [2025-11-14 13:06:37] End to send flash verify data.
+[Debug] [2025-11-14 13:06:37] End to send embed flash verify data.
+[Debug] [2025-11-14 13:06:37] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2025-11-14 13:06:37] Log::Print : COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 13:06:37] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 13:06:37] The value of Progress is 1
+[Debug] [2025-11-14 13:06:38] The value of Progress is 6
+[Debug] [2025-11-14 13:06:38] The value of Progress is 10
+[Debug] [2025-11-14 13:06:39] The value of Progress is 15
+[Debug] [2025-11-14 13:06:39] The value of Progress is 20
+[Debug] [2025-11-14 13:06:40] The value of Progress is 25
+[Debug] [2025-11-14 13:06:40] The value of Progress is 30
+[Debug] [2025-11-14 13:06:40] The value of Progress is 35
+[Debug] [2025-11-14 13:06:41] The value of Progress is 40
+[Debug] [2025-11-14 13:06:41] The value of Progress is 45
+[Debug] [2025-11-14 13:06:42] The value of Progress is 50
+[Debug] [2025-11-14 13:06:42] The value of Progress is 55
+[Debug] [2025-11-14 13:06:43] The value of Progress is 60
+[Debug] [2025-11-14 13:06:43] The value of Progress is 65
+[Debug] [2025-11-14 13:06:44] The value of Progress is 70
+[Debug] [2025-11-14 13:06:44] The value of Progress is 75
+[Debug] [2025-11-14 13:06:45] The value of Progress is 80
+[Debug] [2025-11-14 13:06:45] The value of Progress is 85
+[Debug] [2025-11-14 13:06:46] The value of Progress is 90
+[Debug] [2025-11-14 13:06:46] The value of Progress is 95
+[Debug] [2025-11-14 13:06:47] The value of Progress is 100
+[Debug] [2025-11-14 13:06:47] COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Debug] [2025-11-14 13:06:47] end to send jtag flash verify cmd
+[Debug] [2025-11-14 13:06:47] end to send jtag flash program cmd.
+[Debug] [2025-11-14 13:06:47] Log::Print : COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Info] [2025-11-14 13:09:44] /***************************End Configration***************************/
+[Info] [2025-11-14 16:08:51] /***************************Start Configuration***************************/
+[Info] [2025-11-14 16:08:51] Path: E:/App/Professional/PDS_2022.2-SP6.4/bin
+[Info] [2025-11-14 16:08:51] Version: 146967
+[Info] [2025-11-14 16:08:52] Current Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project
+[Info] [2025-11-14 16:08:52] PDS Dir Path: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project
+[Debug] [2025-11-14 16:09:37] Client Local host name:LAPTOP-BODHT30J
+[Debug] [2025-11-14 16:09:37] Client Local Address:192.168.157.1
+[Debug] [2025-11-14 16:09:37] Client Local Address:192.168.244.1
+[Debug] [2025-11-14 16:09:37] Client Local Address:10.120.0.4
+[Debug] [2025-11-14 16:09:37] Server Address:127.0.0.1, Port:65420
+[Debug] [2025-11-14 16:09:37] Log::Print : Connecting to server[127.0.0.1 : 65420].
+[Info] [2025-11-14 16:09:37] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2025-11-14 16:09:37] Finish.
+[Info] [2025-11-14 16:09:37] Connect server succeeded
+[Debug] [2025-11-14 16:09:37] Send RPC:1
+[Debug] [2025-11-14 16:09:37] Send cmd [check version information:40004] OK
+[Debug] [2025-11-14 16:09:37] Log::Print : Connect to server[127.0.0.1 : 65420] successfully.
+[Debug] [2025-11-14 16:09:38] Send RPC:2
+[Debug] [2025-11-14 16:09:38] Send cmd [get_cable_paras:40010] OK
+[Debug] [2025-11-14 16:09:38] COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-11-14 16:09:38] Log::Print : COMMAND[check version information] execute successfully, takes 0.3 secs.
+[Debug] [2025-11-14 16:09:39] COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Debug] [2025-11-14 16:09:39] Log::Print : The cable List : 
+Cable index 0:USB Cable II/fffffffffffffffe 
+
+[Debug] [2025-11-14 16:09:39] Log::Print : COMMAND[get_cable_paras] execute successfully, takes 1.1 secs.
+[Debug] [2025-11-14 16:10:14] Send RPC:3
+[Debug] [2025-11-14 16:10:14] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 16:10:15] COMMAND[set_cable_paras] execute successfully, takes 0.6 secs.
+[Debug] [2025-11-14 16:10:15] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.6 secs.
+[Debug] [2025-11-14 16:10:18] Begin to send initialize chain cmd...
+[Debug] [2025-11-14 16:10:18] Send RPC:4
+[Debug] [2025-11-14 16:10:18] Send cmd [Open config cable:20001] OK
+[Debug] [2025-11-14 16:10:18] End to send initialize chain cmd.
+[Debug] [2025-11-14 16:10:18] begin the exec of open cable cmd...
+[Debug] [2025-11-14 16:10:18] Begin to deal with chain from server...
+[Debug] [2025-11-14 16:10:18] Begin to set user chain...
+[Debug] [2025-11-14 16:10:18] End to set user chain.
+[Debug] [2025-11-14 16:10:18] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:18] End to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:18] Log::Print : PANGO USB CABLE II cable driver: D2XX DLL
+[Debug] [2025-11-14 16:10:18] Log::Print : PG2L25H
+[Debug] [2025-11-14 16:10:18] Log::Print : This device configure situation (done bit): 1
+[Info] [2025-11-14 16:10:20] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit
+[Debug] [2025-11-14 16:10:20] begin to get device info from CFG file...
+[Debug] [2025-11-14 16:10:20] end to get device info from CFG file...
+[Debug] [2025-11-14 16:10:20] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:20] End to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:20] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:20] End to update graphic item and tree item ...
+[Debug] [2025-11-14 16:10:20] End to deal wiht chain from server.
+[Debug] [2025-11-14 16:10:20] end the exec of open cable cmd.
+[Debug] [2025-11-14 16:10:20] COMMAND[Open config cable] execute successfully, takes 2.1 secs.
+[Debug] [2025-11-14 16:10:20] Log::Print : COMMAND[Open config cable] execute successfully, takes 2.1 secs.
+[Debug] [2025-11-14 16:10:21] Begin to send programming cmd...
+[Debug] [2025-11-14 16:10:21] Send RPC:5
+[Debug] [2025-11-14 16:10:21] Begin to send program data.
+[Debug] [2025-11-14 16:10:21] End to send program data.
+[Debug] [2025-11-14 16:10:21] Send cmd [Program:20002] OK
+[Debug] [2025-11-14 16:10:22] The value of Progress is 6
+[Debug] [2025-11-14 16:10:22] The value of Progress is 10
+[Debug] [2025-11-14 16:10:23] The value of Progress is 15
+[Debug] [2025-11-14 16:10:23] The value of Progress is 20
+[Debug] [2025-11-14 16:10:24] The value of Progress is 25
+[Debug] [2025-11-14 16:10:24] The value of Progress is 30
+[Debug] [2025-11-14 16:10:25] The value of Progress is 35
+[Debug] [2025-11-14 16:10:25] The value of Progress is 40
+[Debug] [2025-11-14 16:10:26] The value of Progress is 45
+[Debug] [2025-11-14 16:10:26] The value of Progress is 50
+[Debug] [2025-11-14 16:10:27] The value of Progress is 55
+[Debug] [2025-11-14 16:10:27] The value of Progress is 60
+[Debug] [2025-11-14 16:10:28] The value of Progress is 65
+[Debug] [2025-11-14 16:10:28] The value of Progress is 70
+[Debug] [2025-11-14 16:10:29] The value of Progress is 75
+[Debug] [2025-11-14 16:10:29] The value of Progress is 80
+[Debug] [2025-11-14 16:10:30] The value of Progress is 85
+[Debug] [2025-11-14 16:10:30] The value of Progress is 90
+[Debug] [2025-11-14 16:10:30] The value of Progress is 95
+[Debug] [2025-11-14 16:10:31] The value of Progress is 100
+[Debug] [2025-11-14 16:10:31] COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 16:10:31] End to send programming cmd.
+[Debug] [2025-11-14 16:10:31] Log::Print : The done bit is 1
+[Debug] [2025-11-14 16:10:31] Log::Print : COMMAND[Program] execute successfully, takes 10.0 secs.
+[Debug] [2025-11-14 16:10:44] Begin to Converte file.
+[Debug] [2025-11-14 16:10:57] begin to parse sfc file.
+[Debug] [2025-11-14 16:10:57] begin to get device info from CFG file...
+[Debug] [2025-11-14 16:10:57] end to get device info from CFG file...
+[Debug] [2025-11-14 16:10:57] begin to get device info from CFG file...
+[Debug] [2025-11-14 16:10:57] end to get device info from CFG file...
+[Debug] [2025-11-14 16:10:57] end to parse sfc file.
+[Debug] [2025-11-14 16:10:57] Log::Print : The Start Address of bit file E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project/generate_bitstream/hdmi_test.sbit: 0x0
+[Debug] [2025-11-14 16:10:58] End to Converte file.
+[Debug] [2025-11-14 16:11:00] Begin to send scan outer flash cmd...
+[Debug] [2025-11-14 16:11:00] Send RPC:6
+[Debug] [2025-11-14 16:11:00] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2025-11-14 16:11:00] End to send scan outer flash cmd.
+[Debug] [2025-11-14 16:11:01] begin to exec scan jtag flash cmd...
+[Debug] [2025-11-14 16:11:01] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2025-11-14 16:11:01] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:11:01] End to update graphic item and tree item ...
+[Debug] [2025-11-14 16:11:04] selected file name is empty and ignore.
+[Debug] [2025-11-14 16:11:04] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2025-11-14 16:11:04] end to exec scan jtag flash cmd...
+[Debug] [2025-11-14 16:11:04] COMMAND[Scan Outer SPI Flash] execute successfully, takes 3.5 secs.
+[Debug] [2025-11-14 16:11:04] Log::Print : COMMAND[Scan Outer SPI Flash] execute successfully, takes 3.5 secs.
+[Debug] [2025-11-14 16:11:29] Send RPC:7
+[Debug] [2025-11-14 16:11:29] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 16:11:30] COMMAND[set_cable_paras] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 16:11:30] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 16:11:35] Send RPC:8
+[Debug] [2025-11-14 16:11:35] Send cmd [set_cable_paras:40011] OK
+[Debug] [2025-11-14 16:11:36] COMMAND[set_cable_paras] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 16:11:36] Log::Print : COMMAND[set_cable_paras] execute successfully, takes 0.4 secs.
+[Debug] [2025-11-14 16:11:41] Begin to send scan outer flash cmd...
+[Debug] [2025-11-14 16:11:41] Send RPC:9
+[Debug] [2025-11-14 16:11:41] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2025-11-14 16:11:41] End to send scan outer flash cmd.
+[Debug] [2025-11-14 16:11:41] begin to exec scan jtag flash cmd...
+[Debug] [2025-11-14 16:11:41] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2025-11-14 16:11:41] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:11:41] End to update graphic item and tree item ...
+[Info] [2025-11-14 16:11:43] set OpenLastPath: E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/09_hdmi_colorbar/project/generate_bitstream/hdmi_test.sfc
+[Debug] [2025-11-14 16:11:43] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 16:11:43] end to check SFC File and Flash Device Read Mode.
+[Debug] [2025-11-14 16:11:43] Begin to update graphic item and tree item ...
+[Debug] [2025-11-14 16:11:43] End to update graphic item and tree item ...
+[Debug] [2025-11-14 16:11:43] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2025-11-14 16:11:43] end to exec scan jtag flash cmd...
+[Debug] [2025-11-14 16:11:43] COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.9 secs.
+[Debug] [2025-11-14 16:11:43] Log::Print : COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.9 secs.
+[Debug] [2025-11-14 16:11:45] begin to send promgram jtag flash cmd.
+[Debug] [2025-11-14 16:11:45] begin to send jtag flash erase cmd
+[Debug] [2025-11-14 16:11:45] Send RPC:10
+[Debug] [2025-11-14 16:11:45] Begin to send embed flash erase data.
+[Debug] [2025-11-14 16:11:45] Begin to send flash erase data.
+[Debug] [2025-11-14 16:11:45] End to send flash erase data.
+[Debug] [2025-11-14 16:11:45] End to send embed flash erase data.
+[Debug] [2025-11-14 16:11:45] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2025-11-14 16:11:45] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 16:11:45] The value of Progress is 1
+[Debug] [2025-11-14 16:11:47] The value of Progress is 10
+[Debug] [2025-11-14 16:11:47] The value of Progress is 15
+[Debug] [2025-11-14 16:11:48] The value of Progress is 21
+[Debug] [2025-11-14 16:11:48] The value of Progress is 26
+[Debug] [2025-11-14 16:11:49] The value of Progress is 31
+[Debug] [2025-11-14 16:11:49] The value of Progress is 36
+[Debug] [2025-11-14 16:11:49] The value of Progress is 42
+[Debug] [2025-11-14 16:11:50] The value of Progress is 47
+[Debug] [2025-11-14 16:11:50] The value of Progress is 52
+[Debug] [2025-11-14 16:11:51] The value of Progress is 57
+[Debug] [2025-11-14 16:11:51] The value of Progress is 63
+[Debug] [2025-11-14 16:11:52] The value of Progress is 68
+[Debug] [2025-11-14 16:11:52] The value of Progress is 73
+[Debug] [2025-11-14 16:11:52] The value of Progress is 78
+[Debug] [2025-11-14 16:11:53] The value of Progress is 84
+[Debug] [2025-11-14 16:11:53] The value of Progress is 89
+[Debug] [2025-11-14 16:11:54] The value of Progress is 94
+[Debug] [2025-11-14 16:11:54] The value of Progress is 100
+[Debug] [2025-11-14 16:11:54] COMMAND[Erase Outer Flash] execute finish, takes 8.5 secs.
+[Debug] [2025-11-14 16:11:54] end to send jtag flash erase cmd.
+[Debug] [2025-11-14 16:11:54] Send RPC:11
+[Debug] [2025-11-14 16:11:54] Begin to send jtag flash program data.
+[Debug] [2025-11-14 16:11:54] Begin to send flash program data.
+[Debug] [2025-11-14 16:11:54] End to send flash program data.
+[Debug] [2025-11-14 16:11:54] End to send embed flash program data.
+[Debug] [2025-11-14 16:11:54] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2025-11-14 16:11:54] Log::Print : COMMAND[Erase Outer Flash] execute finish, takes 8.5 secs.
+[Debug] [2025-11-14 16:11:54] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 16:11:54] The value of Progress is 1
+[Debug] [2025-11-14 16:11:56] The value of Progress is 6
+[Debug] [2025-11-14 16:11:57] The value of Progress is 10
+[Debug] [2025-11-14 16:11:58] The value of Progress is 15
+[Debug] [2025-11-14 16:12:00] The value of Progress is 20
+[Debug] [2025-11-14 16:12:01] The value of Progress is 25
+[Debug] [2025-11-14 16:12:02] The value of Progress is 30
+[Debug] [2025-11-14 16:12:04] The value of Progress is 35
+[Debug] [2025-11-14 16:12:05] The value of Progress is 40
+[Debug] [2025-11-14 16:12:07] The value of Progress is 45
+[Debug] [2025-11-14 16:12:08] The value of Progress is 50
+[Debug] [2025-11-14 16:12:09] The value of Progress is 55
+[Debug] [2025-11-14 16:12:11] The value of Progress is 60
+[Debug] [2025-11-14 16:12:12] The value of Progress is 65
+[Debug] [2025-11-14 16:12:14] The value of Progress is 70
+[Debug] [2025-11-14 16:12:15] The value of Progress is 75
+[Debug] [2025-11-14 16:12:16] The value of Progress is 80
+[Debug] [2025-11-14 16:12:18] The value of Progress is 85
+[Debug] [2025-11-14 16:12:19] The value of Progress is 90
+[Debug] [2025-11-14 16:12:21] The value of Progress is 95
+[Debug] [2025-11-14 16:12:22] The value of Progress is 100
+[Debug] [2025-11-14 16:12:22] COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 16:12:22] begin to send jtag flash verify cmd
+[Debug] [2025-11-14 16:12:22] Send RPC:12
+[Debug] [2025-11-14 16:12:22] Begin to send embed flash verify data.
+[Debug] [2025-11-14 16:12:22] Begin to send flash verify data.
+[Debug] [2025-11-14 16:12:22] End to send flash verify data.
+[Debug] [2025-11-14 16:12:22] End to send embed flash verify data.
+[Debug] [2025-11-14 16:12:22] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2025-11-14 16:12:22] Log::Print : COMMAND[Program Outer Flash] execute finish, takes 28.5 secs.
+[Debug] [2025-11-14 16:12:22] Log::Print : The start address of operating flash is 0x0.
+[Debug] [2025-11-14 16:12:22] The value of Progress is 1
+[Debug] [2025-11-14 16:12:23] The value of Progress is 6
+[Debug] [2025-11-14 16:12:24] The value of Progress is 10
+[Debug] [2025-11-14 16:12:24] The value of Progress is 15
+[Debug] [2025-11-14 16:12:25] The value of Progress is 20
+[Debug] [2025-11-14 16:12:25] The value of Progress is 25
+[Debug] [2025-11-14 16:12:26] The value of Progress is 30
+[Debug] [2025-11-14 16:12:26] The value of Progress is 35
+[Debug] [2025-11-14 16:12:27] The value of Progress is 40
+[Debug] [2025-11-14 16:12:27] The value of Progress is 45
+[Debug] [2025-11-14 16:12:27] The value of Progress is 50
+[Debug] [2025-11-14 16:12:28] The value of Progress is 55
+[Debug] [2025-11-14 16:12:28] The value of Progress is 60
+[Debug] [2025-11-14 16:12:29] The value of Progress is 65
+[Debug] [2025-11-14 16:12:29] The value of Progress is 70
+[Debug] [2025-11-14 16:12:30] The value of Progress is 75
+[Debug] [2025-11-14 16:12:30] The value of Progress is 80
+[Debug] [2025-11-14 16:12:31] The value of Progress is 85
+[Debug] [2025-11-14 16:12:31] The value of Progress is 90
+[Debug] [2025-11-14 16:12:32] The value of Progress is 95
+[Debug] [2025-11-14 16:12:32] The value of Progress is 100
+[Debug] [2025-11-14 16:12:33] COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Debug] [2025-11-14 16:12:33] end to send jtag flash verify cmd
+[Debug] [2025-11-14 16:12:33] end to send jtag flash program cmd.
+[Debug] [2025-11-14 16:12:33] Log::Print : COMMAND[Verify Outer Flash] execute successfully, takes 10.2 secs.
+[Info] [2025-11-14 16:13:42] /***************************End Configration***************************/

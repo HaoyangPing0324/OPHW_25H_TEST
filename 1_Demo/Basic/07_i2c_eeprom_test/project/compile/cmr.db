@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/btn_deb_fix.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/iic_dri.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:0s</data>
+            <data>0h:0m:4s</data>
+            <data>137</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>Unknown</data>
+            <data>31</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/btn_deb_fix.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/btn_deb_fix.v(line number: 23)] Analyzing module btn_deb_fix (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 24)] Analyzing module i2c_eeprom_test (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/iic_dri.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/iic_dri.v(line number: 23)] Analyzing module iic_dri (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;i2c_eeprom_test&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 24)] Elaborating module i2c_eeprom_test</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 37)] Elaborating instance u_btn_deb</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/btn_deb_fix.v(line number: 23)] Elaborating module btn_deb_fix</data>
+        </row>
+        <row>
+            <data message="4">Module instance {i2c_eeprom_test/u_btn_deb} parameter value:
+    BTN_WIDTH = 4'b0011
+    BTN_DELAY = 20'b01111111111111111111</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 93)] Elaborating instance iic_dri</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/iic_dri.v(line number: 23)] Elaborating module iic_dri</data>
+        </row>
+        <row>
+            <data message="4">Module instance {i2c_eeprom_test/iic_dri} parameter value:
+    CLK_FRE = 27'b010111110101111000010000000
+    IIC_FREQ = 20'b01100001101010000000
+    T_WR = 10'b0000000101
+    DEVICE_ID = 8'b10100000
+    ADDR_BYTE = 2'b01
+    LEN_WIDTH = 8'b00001000
+    DATA_BYTE = 2'b01</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 85)] Width mismatch between port byte_len and signal bound to it for instantiated module iic_dri</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 119)] Elaborating instance iobuf</data>
+        </row>
+        <row>
+            <data message="4">FSM state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N139 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="6">DRC-2021: [E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/design/i2c_eeprom_test.v(line number: 79)] The net byteover is un-driven, tie it to 0.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PG2L25H-6MBG325</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>i2c_eeprom_test</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>E:/User/Files/project_self/OPHW_25H/workspace/07_i2c_eeprom_test/project	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

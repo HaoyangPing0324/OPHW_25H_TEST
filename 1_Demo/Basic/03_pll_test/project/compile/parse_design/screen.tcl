@@ -1,0 +1,1 @@
+.rtl_screen -top_module {pll_test} -include_path {<E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project>} -design_files {<E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/design/pll_test.v|work><E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/ipcore/PLL/PLL.v|work>}

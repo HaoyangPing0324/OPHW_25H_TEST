@@ -1,0 +1,69 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/sim/behav
+vPLL
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 c;:jeTV^57g0l]HcE]jLk0
+IdH:FUM^NIlgUC5;W`CSc]2
+R0
+w1763110948
+8E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/ipcore/PLL/PLL.v
+FE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/ipcore/PLL/PLL.v
+L0 18
+Z2 OL;L;10.4;61
+Z3 !s108 1763707546.002000
+Z4 !s107 E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/pll_test.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/PLL_tb.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/ipcore/PLL/PLL.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/design/pll_test.v|
+Z5 !s90 -reportprogress|300|-work|work|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/design/pll_test.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/project/ipcore/PLL/PLL.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/PLL_tb.v|E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/pll_test.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@p@l@l
+vPLL_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 4^@A3h3Wado4dCz_;2m]`1
+ImLeRW@<O7iN?YLn_hV>>L2
+R0
+w1763111073
+8E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/PLL_tb.v
+FE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/PLL_tb.v
+L0 2
+R2
+R3
+R4
+R5
+!i113 0
+R6
+n@p@l@l_tb
+vpll_test
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 SmoYM73WCMfFIfme4in=K2
+IB@OMfLTe@:JCbm3nZFNog2
+R0
+w1763111458
+8E:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/pll_test.v
+FE:/User/Files/project_self/OPHW_25H/OPHW_25H_TEST/1_Demo/Basic/03_pll_test/simulation/pll_test.v
+L0 1
+R2
+R3
+R4
+R5
+!i113 0
+R6

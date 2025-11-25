@@ -1,0 +1,30 @@
+%% 将图片转为dat 以存入ROM供读取
+clc;
+clear all;
+
+%% 读取图像文件 换成自己图片的路径 bmp/png/jpg均可
+image_rgb = imread('motion_blur_gaussian_noise.png');
+
+%% 显示图像
+imshow(image_rgb);
+
+%% 获取图像的尺寸信息
+[image_height, image_width, num_channels] = size(image_rgb);
+
+%% 打开文件以写入
+file_id = fopen('motion_blur_gaussian_noise.dat', 'w+');
+
+%% 遍历每一个像素并写入到文件中
+for row_index = 1:image_height
+    for col_index = 1:image_width 
+        for channel_index = 1:num_channels
+            % 将每个像素值写入文件，以十六进制格式表示
+            fprintf(file_id, '%02x', image_rgb(row_index, col_index, channel_index));
+        end
+        % 每行像素结束后换行
+        fprintf(file_id, '\n');
+    end
+end
+
+%% 关闭文件
+fclose(file_id);

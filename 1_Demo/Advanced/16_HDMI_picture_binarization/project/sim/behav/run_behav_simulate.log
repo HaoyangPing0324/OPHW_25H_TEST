@@ -1,0 +1,200 @@
+# Reading E:/App/Professional/modelsim/path/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# 
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet adc_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/adc_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ddc_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ddc_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet dll_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/dll_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsstlp_lane E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/hsstlp_lane 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet hsstlp_pll E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/hsstlp_pll 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iolhr_dft E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/iolhr_dft 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e1 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ipal_e1 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet ipal_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ipal_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet iserdes_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/iserdes_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet oserdes_e2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/oserdes_e2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet pciegen2 E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/pciegen2 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 18:48:04 on Nov 18,2025
+# vlog -reportprogress 300 -work work E:/User/Files/project_self/OPHW_25H/workspace/16work/design/asyn_rst_syn.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_encoder.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/dvi_transmitter_top.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/hdmi_picture_grey.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/RGB2YCbCr.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/serializer_10_to_1.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/sync_vg.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/video_display.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/area_bin.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/binarization.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/data_delay.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/signal_delay.v E:/User/Files/project_self/OPHW_25H/workspace/16work/design/matrix_3x3.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_0/pll_0.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/pll_1/pll_1.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_rom_v1_8_blk_mem_gen_0.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/rtl/ipm2l_spram_v1_8_blk_mem_gen_0.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/blk_mem_gen_0/blk_mem_gen_0.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_ctrl_v1_1_fifo_line_buf.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_sdpram_v1_10_fifo_line_buf.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/rtl/ipm2l_fifo_v1_10_fifo_line_buf.v E:/User/Files/project_self/OPHW_25H/workspace/16work/project/ipcore/fifo_line_buf/fifo_line_buf.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v 
+# E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_tb.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/top_tb.v 
+# -- Compiling module asyn_rst_syn
+# -- Compiling module dvi_encoder
+# -- Compiling module dvi_transmitter_top
+# -- Compiling module hdmi_picture_grey
+# -- Compiling module RGB2YCbCr
+# -- Compiling module serializer_10_to_1
+# -- Compiling module sync_vg
+# -- Compiling module video_display
+# ** Error: (vlog-13036) E:/User/Files/project_self/OPHW_25H/workspace/16work/design/video_display.v(120): near "--": Operator only allowed in SystemVerilog.
+# 
+# ** Error: (vlog-13069) E:/User/Files/project_self/OPHW_25H/workspace/16work/design/video_display.v(120): near "2": syntax error, unexpected INTEGER NUMBER.
+# 
+# -- Compiling module area_bin
+# ** Error: E:/User/Files/project_self/OPHW_25H/workspace/16work/design/area_bin.v(56): (vlog-2730) Undefined variable: 'bin_data'.
+# 
+# ** Error (suppressible): E:/User/Files/project_self/OPHW_25H/workspace/16work/design/area_bin.v(107): (vlog-2388) 'bin_data' already declared in this scope (area_bin).
+# 
+# -- Compiling module binarization
+# -- Compiling module data_delay
+# -- Compiling module signal_delay
+# -- Compiling module matrix_3x3
+# -- Compiling module pll_0
+# -- Compiling module pll_1
+# -- Compiling module ipm2l_rom_v1_8_blk_mem_gen_0
+# -- Compiling module ipm2l_spram_v1_8_blk_mem_gen_0
+# -- Compiling module blk_mem_gen_0
+# -- Compiling module ipm2l_fifo_ctrl_v1_1_fifo_line_buf
+# -- Compiling module ipm2l_sdpram_v1_10_fifo_line_buf
+# -- Compiling module ipm2l_fifo_v1_10_fifo_line_buf
+# -- Compiling module fifo_line_buf
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/matrix_3x3.v(3): (vlog-2275) 'matrix_3x3' already exists and will be overwritten.
+# 
+# -- Compiling module matrix_3x3
+# -- Compiling module matrix_tb
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v(3): (vlog-2275) 'area_bin' already exists and will be overwritten.
+# 
+# -- Compiling module area_bin
+# ** Error: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v(56): (vlog-2730) Undefined variable: 'bin_data'.
+# 
+# ** Error (suppressible): E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/area_bin.v(107): (vlog-2388) 'bin_data' already declared in this scope (area_bin).
+# 
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/asyn_rst_syn.v(7): (vlog-2275) 'asyn_rst_syn' already exists and will be overwritten.
+# 
+# -- Compiling module asyn_rst_syn
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/binarization.v(2): (vlog-2275) 'binarization' already exists and will be overwritten.
+# 
+# -- Compiling module binarization
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/data_delay.v(4): (vlog-2275) 'data_delay' already exists and will be overwritten.
+# 
+# -- Compiling module data_delay
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_encoder.v(21): (vlog-2275) 'dvi_encoder' already exists and will be overwritten.
+# 
+# -- Compiling module dvi_encoder
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/dvi_transmitter_top.v(7): (vlog-2275) 'dvi_transmitter_top' already exists and will be overwritten.
+# 
+# -- Compiling module dvi_transmitter_top
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v(24): (vlog-2275) 'hdmi_picture_grey' already exists and will be overwritten.
+# 
+# -- Compiling module hdmi_picture_grey
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/RGB2YCbCr.v(1): (vlog-2275) 'RGB2YCbCr' already exists and will be overwritten.
+# 
+# -- Compiling module RGB2YCbCr
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/serializer_10_to_1.v(9): (vlog-2275) 'serializer_10_to_1' already exists and will be overwritten.
+# 
+# -- Compiling module serializer_10_to_1
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/signal_delay.v(4): (vlog-2275) 'signal_delay' already exists and will be overwritten.
+# 
+# -- Compiling module signal_delay
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/sync_vg.v(35): (vlog-2275) 'sync_vg' already exists and will be overwritten.
+# 
+# -- Compiling module sync_vg
+# ** Warning: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v(6): (vlog-2275) 'video_display' already exists and will be overwritten.
+# 
+# -- Compiling module video_display
+# ** Error: (vlog-13036) E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v(118): near "--": Operator only allowed in SystemVerilog.
+# 
+# ** Error: (vlog-13069) E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/video_display.v(118): near "2": syntax error, unexpected INTEGER NUMBER.
+# 
+# -- Compiling module top_tb
+# End time: 18:48:04 on Nov 18,2025, Elapsed time: 0:00:00
+# Errors: 8, Warnings: 13
+# ** Error: E:/App/Professional/modelsim/path/modeltech64_10.4/win64/vlog failed.
+# Error in macro ./run_behav_compile.tcl line 57
+# E:/App/Professional/modelsim/path/modeltech64_10.4/win64/vlog failed.
+#     while executing
+# "vlog -work work   \
+# "E:/User/Files/project_self/OPHW_25H/workspace/16work/design/asyn_rst_syn.v" \
+# "E:/User/Files/project_self/OPHW_25H/workspace/16wo..."
+# do {run_behav_simulate.tcl}
+# vsim -gui -do "do {run_behav_compile.tcl};do {run_behav_simulate.tcl}" -l run_behav_simulate.log 
+# Start time: 18:48:04 on Nov 18,2025
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# 
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.top_tb
+# Loading work.top_tb
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.hdmi_picture_grey
+# Loading work.hdmi_picture_grey
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.pll_0
+# Loading work.pll_0
+# Loading usim.GTP_GPLL
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.pll_1
+# Loading work.pll_1
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.sync_vg
+# Loading work.sync_vg
+# ** Error: (vsim-3033) E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v(134): Instantiation of 'video_display' failed. The design unit was not found.
+#    Time: 0 ns  Iteration: 0  Instance: /top_tb/u_hdmi_picture_grey File: E:/User/Files/project_self/OPHW_25H/workspace/16work/simulation/hdmi_picture_grey.v
+#         Searched libraries:
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/usim
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/adc_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ddc_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/dll_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/hsstlp_lane
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/hsstlp_pll
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/iolhr_dft
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ipal_e1
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/ipal_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/iserdes_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/oserdes_e2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/pango_sim_libraries/pciegen2
+#             E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.dvi_transmitter_top
+# Loading work.dvi_transmitter_top
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.asyn_rst_syn
+# Loading work.asyn_rst_syn
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.dvi_encoder
+# Loading work.dvi_encoder
+# Refreshing E:/User/Files/project_self/OPHW_25H/workspace/16work/project/sim/behav/work.serializer_10_to_1
+# Loading work.serializer_10_to_1
+# Loading usim.GTP_OSERDES_E2
+# Loading usim.GTP_OUTBUFDS
+# Loading usim.GTP_GRS
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run_behav_simulate.tcl PAUSED at line 6
+# End time: 18:48:15 on Nov 18,2025, Elapsed time: 0:00:11
+# Errors: 1, Warnings: 1
